@@ -39,7 +39,7 @@ Figure
 
 7. Citée 17. à l'article Chiner des Etoffes, dans l'Encyclopédie, dessein proposé à exécuter en velours chiné.
 
-8. Anamorphose du dessein précédent, rendue six fois plus longue à cause que le poil du velours pro-  posé s'emboit six fois plus que la chaîne, ensorte qu'il faut six aunes de poil pour faire une aune de velours.
+8. Anamorphose du dessein précédent, rendue six fois plus longue à cause que le poil du velours proposé s'emboit six fois plus que la chaîne, ensorte qu'il faut six aunes de poil pour faire une aune de velours.
 
 
 PLANCHE CXVII,
@@ -65,7 +65,6 @@ Fig.
 
 Le compartiment ou division des deux couleurs des bandes collatérales K k, I i, H h, est indiqué par les bandes fig. 5. & fig. 8. La premiere fait connoître par les lettres H L, O h, les parties de la chaîne qui doivent être teintes en verd; & la seconde marque par les lettres L M, N O, les parties de la même chaîne qui doivent être teintes en rouge.
 
-Fig.
 5. &
 6. &
 7. &
@@ -183,7 +182,6 @@ Fig.
 	- G, le fil à gauche.
 	- D, le fil à droite longs de ce côté, d'une grandeur arbitraire, g & d, les bouts du fil qu'il faut lier ensemble.
 
-Fig.
 2. Second tems. Il faut faire une boucle en ramenant les deux fils parallelement entre eux par-dessus eux-mêmes.
 
 3. Troisieme tems de la formation de ce noeud. Il faut faire passer les deux queues g & d par-dedans la boucle formée au second tems, & cela par-dessous les deux G & D que l'on veut lier ensemble, puis serrer le noeud, qui alors est achevé.
@@ -265,6 +263,7 @@ PLANCHE CXXIV,
 signée i i i i. Développemens du lissoir.
 
 Fig.
+
 6. Le lissoir vu en plan.
 	- E F e f, la banque de quatre piés & demi de long sur un pié de large.
 	- I K, i k, les deux coulisses, de deux piés de long & trois pouces de large chacune, percée d'une vingtaine de trous à distances égales, pour pouvoir fixer les trois regles où on veut.
@@ -272,7 +271,6 @@ Fig.
 	- H h, regle qui doit être renfermée dans les mailles du haut des lisses à mesure qu'on les forme.
 	- M m, troisieme regle qui sert à différens usages, comme on le verra dans la suite.
 
-Fig.
 7. Coupe du lissoir par le milieu de sa longueur.
 	- E F, la banque d'un pié de large & deux pouces d'épaisseur.
 	- A C, les piés.
@@ -316,7 +314,6 @@ signée l l l l. Maniere de former les lisses à crochets.
 
 Les mailles d'enbas étant formées comme il est représenté dans la Planche précédente, on les placera le long de la regle B B, en a b c d e f g h i, &c. ayant ensuite placé la regle H H du haut des lisses à la distance convenable, & l'ouvriere, fig. 2. de la vignette, étant placée du côté des lettres a b c d e f g h i, & la lisseuse, fig. 1. au-devant de la regle H H, elle procédera en cette sorte à la formation des mailles.
 
-Fig.
 3. Premier tems de la formation de la maille.
 	- A 1 a, B 2 b, C 3 c, trois mailles complettes suivies de deux natter. Pour former la quatrieme maille, la lisseuse fera de la main gauche une boucle D, dans laquelle tous les doigts seront passés; tenant de la main droite le rochet F, elle le conduira par dessus la regle H H dans la maille d 4, qui lui est présentée & tenue ouverte en E par la seconde ouvriere.
 
@@ -347,6 +344,7 @@ PLANCHE CXXVIII,
 signée n n n n.
 
 Fig.
+
 3. Troisieme tems de la formation de la maille. La main gauche qui tient le rochet le fera passer dans la maille D vers F. On serrera ensuite, & le noeud z s'approchera de la barre du milieu M M & la boucle D de la corde à natter.
 
 4. La maille précédente D z 4 h entiérement achevée, & le commencement du premier des deux natter qui suit.
@@ -390,9 +388,9 @@ Cette Planche & celles qui suivent représentent les différentes machines qui s
 
 La Planche représente l'intérieur de l'attelier où est la calandre, composée principalement d'une forte table de marbre assise solidement, d'une table de cuivre qui est double inférieurement un fort madrier de bois qui est chargé d'une masse considérable, & de la roue qui sert à mettre cette masse en mouvement.
 
-	- A B C D, un des bouts de l'établi ou massif de pierre dans lequel & sur lequel la table de marbre est scellée.
-	- E F, un bout de la table de marbre qui a dix à douze piés de longueur, sur une largeur de trois à quatre piés.
-	- H I h, forte table de bois sur laquelle est établi le massif de mâçonnerie H I K L k du poids d'environ quatre-vingts milliers. Le dessous du madrier est doublé par une table de cuivre, entre laquelle & la table de marbre, on place les rouleaux 8, 9, sur lesquels les étoffes qu'on veut calandrer ou moirer sont roulées. Cette masse énorme est mise en mouvement par plusieurs hommes qui, en marchant dans la roue V X Y, font tourner l'arbre P Q R S de cette roue, sur lequel s'enveloppe d'un côté & se développe de l'autre deux cables arrêtés aux deux bouts de la masse par des treuils.
+- A B C D, un des bouts de l'établi ou massif de pierre dans lequel & sur lequel la table de marbre est scellée.
+- E F, un bout de la table de marbre qui a dix à douze piés de longueur, sur une largeur de trois à quatre piés.
+- H I h, forte table de bois sur laquelle est établi le massif de mâçonnerie H I K L k du poids d'environ quatre-vingts milliers. Le dessous du madrier est doublé par une table de cuivre, entre laquelle & la table de marbre, on place les rouleaux 8, 9, sur lesquels les étoffes qu'on veut calandrer ou moirer sont roulées. Cette masse énorme est mise en mouvement par plusieurs hommes qui, en marchant dans la roue V X Y, font tourner l'arbre P Q R S de cette roue, sur lequel s'enveloppe d'un côté & se développe de l'autre deux cables arrêtés aux deux bouts de la masse par des treuils.
 
 Le pivot S de l'arbre est soutenu par le poinçon d'une ferme de charpente, dont on voit en T le bout d'une des jambes de force & celui de l'entrait; l'autre pivot roule dans un trou pratiqué au poteau montant AE Z, affermi vers le haut par une des poutres du plancher. A ce poteau tient le valet n, avec lequel & la coquille m, on met les rouleaux dans la situation verticale pour dérouler commodément l'étoffe dont ils sont entourés.
 
@@ -437,16 +435,14 @@ PLANCHE CXXXII,
 
 signée r r r r. Calandre royale ou Calandre angloise.
 
-A a B b, la table inférieure de la calandre; elle est de marbre.
-	- C D c d, table de cuivre entre les deux plans inclinés.
-	- F E e, forte table de bois doublée inférieurement d'une table de cuivre.
-	- H I K L h k l, masse pesante qui pose sur la table.
-	- 8 & 9, rouleaux entre les deux tables.
-
-A A, C C: B B, D D, poteaux montans affermis sous les poutres du plancher dans lesquels sont les poulies de renvoi des cordes qui font mouvoir la masse.
-	- M, treuil servant à bander une des cordes; cette corde après avoir passé sur la poulie N de la masse, vient passer sur la poulie O, de-là sur la poulie P de la masse, revient ensuite passer sur la poulie Q, de-là par R sur le tambour S.
-
-T, Second treuil pour bander l'autre corde, qui delà vient passer sur la poulie V de la masse, retourne  ensuite passer sur la poulie X, revient passer sur la poulie Y de la masse, & de-là va s'enrouler sur le tambour inférieur Z de l'arbre vertical OE AE. Ce tambour est placé au-dessous du plancher sur lequel marchent circulairement ceux qui font mouvoir la calandre. On a fracturé ce plancher pour laisser voir le tambour inférieur & le pivot de l'arbre vertical.
+- A a B b, la table inférieure de la calandre; elle est de marbre.
+- C D c d, table de cuivre entre les deux plans inclinés.
+- F E e, forte table de bois doublée inférieurement d'une table de cuivre.
+- H I K L h k l, masse pesante qui pose sur la table.
+- 8 & 9, rouleaux entre les deux tables.
+- A A, C C: B B, D D, poteaux montans affermis sous les poutres du plancher dans lesquels sont les poulies de renvoi des cordes qui font mouvoir la masse.
+- M, treuil servant à bander une des cordes; cette corde après avoir passé sur la poulie N 	de la masse, vient passer sur la poulie O, de-là sur la poulie P de la masse, revient ensuite passer sur la poulie Q, de-là par R sur le tambour S.
+- T, Second treuil pour bander l'autre corde, qui delà vient passer sur la poulie V de la masse, retourne ensuite passer sur la poulie X, revient passer sur la poulie Y de la masse, & de-là va s'enrouler sur le tambour inférieur Z de l'arbre vertical OE AE. Ce tambour est placé au-dessous du plancher sur lequel marchent circulairement ceux qui font mouvoir la calandre. On a fracturé ce plancher pour laisser voir le tambour inférieur & le pivot de l'arbre vertical.
 
 
 PLANCHE CXXXIII,
@@ -462,16 +458,16 @@ Les rouleaux sont comprimés l'un contre l'autre au moyen de plusieurs leviers, 
 
 Le rouleau de cuivre est garni à chacune de ses extrémités d'une roue dentée, à laquelle le mouvement est communiqué par une lanterne; ces lanternes sont fixées sur l'axe de la manivelle, par le moyen de laquelle on met la machine en mouvement.
 
-	- A D E, axe de la manivelle.
-	- B C, manivelle garnie d'un rouleau de bois qui sert de poignée; près du pivot A est un volant pour rendre uniforme la vitesse imprimée à la manivelle.
-	- D E, les deux lanternes qui engrennent dans les roues fixées aux extrémités du cylindre de cuivre, dont F & G sont les tourillons.
-	- f f g g, le cylindre de bois.
-	- H I, extrémités du sommier sur lequel portent les appuis des tourillons du rouleau inférieur.
-	- K L, barre de fer qui traverse deux des quatre montans entre lesquels les rouleaux sont placés; les extrémités de cette barre servent de point d'appui ou d'hipomoclion au levier inférieur K H O, & à un autre levier semblable qui est caché par le levier supérieur P Q. Ces leviers, qui sont du second genre, sont placés au-dessous du rez-de-chaussée.
-	- M N, autre barre de fer posée sur les chapeaux qui assemblent les quatre montans; les extrémités de cette barre servent d'appui au levier supérieur P N Q, & à un autre levier semblable dont on voit seulement l'extrémité en R. Ces leviers, qui sont du premier genre, tirent les leviers inférieurs par des chaînes ou tirans de fer clavetées en-dessus des leviers supérieurs, comme on le voit en P, & en-dessous des leviers inférieurs comme on le voit en O; chacun des leviers supérieurs est chargé en Q & R, extrémité de leur plus long bras, d'un poids suffisant pour opérer la compression des cylindres.
-	- S & T, deux poulies sur lesquelles passent les cordes qui sont attachées aux leviers & vont s'enrouler sur le treuil X Y, qui est supporté par les chapeaux. Les chapeaux sont supportés dans leur milieu par les montans de la machine & par leurs extrémités par les murailles de l'attelier dans lesquelles ils sont scellés.
-	- V, roue ou poulie qui reçoit une corde sans-fin, par le moyen de laquelle on releve les leviers lorsqu'on veut desserrer les cylindres.
-	- Z z, rouleau sur lequel la piece d'étoffe est roulée, & de dessus lequel elle sort pour passer entre les cylindres.
+- A D E, axe de la manivelle.
+- B C, manivelle garnie d'un rouleau de bois qui sert de poignée; près du pivot A est un volant pour rendre uniforme la vitesse imprimée à la manivelle.
+- D E, les deux lanternes qui engrennent dans les roues fixées aux extrémités du cylindre de cuivre, dont F & G sont les tourillons.
+- f f g g, le cylindre de bois.
+- H I, extrémités du sommier sur lequel portent les appuis des tourillons du rouleau inférieur.
+- K L, barre de fer qui traverse deux des quatre montans entre lesquels les rouleaux sont placés; les extrémités de cette barre servent de point d'appui ou d'hipomoclion au levier inférieur K H O, & à un autre levier semblable qui est caché par le levier supérieur P Q. Ces leviers, qui sont du second genre, sont placés au-dessous du rez-de-chaussée.
+- M N, autre barre de fer posée sur les chapeaux qui assemblent les quatre montans; les extrémités de cette barre servent d'appui au levier supérieur P N Q, & à un autre levier semblable dont on voit seulement l'extrémité en R. Ces leviers, qui sont du premier genre, tirent les leviers inférieurs par des chaînes ou tirans de fer clavetées en-dessus des leviers supérieurs, comme on le voit en P, & en-dessous des leviers inférieurs comme on le voit en O; chacun des leviers supérieurs est chargé en Q & R, extrémité de leur plus long bras, d'un poids suffisant pour opérer la compression des cylindres.
+- S & T, deux poulies sur lesquelles passent les cordes qui sont attachées aux leviers & vont s'enrouler sur le treuil X Y, qui est supporté par les chapeaux. Les chapeaux sont supportés dans leur milieu par les montans de la machine & par leurs extrémités par les murailles de l'attelier dans lesquelles ils sont scellés.
+- V, roue ou poulie qui reçoit une corde sans-fin, par le moyen de laquelle on releve les leviers lorsqu'on veut desserrer les cylindres.
+- Z z, rouleau sur lequel la piece d'étoffe est roulée, & de dessus lequel elle sort pour passer entre les cylindres.
 
 
 PLANCHE CXXXIV,
@@ -481,17 +477,17 @@ PLANCHE CXXXIV,
 
 signée t t t t. Elévation latérale de la machine servant à cylindrer les etoffes.
 
-a a, a: b b, b, les deux montans de l'un des côtés de la machine; ces montans sont assemblés l'un à l'autre à leur partie supérieure par deux entretoises c c, d d, enbrevées dans les montans que le chapeau e e recouvre & contient dans la situation verticale. Aux parties inférieures des montans sont des rainures 3, 4: 3, 4, qui reçoivent les languettes du support du tourillon f; les supports reposent sur le sommier H, à la partie inférieure duquel sont des pieces de fer 5, qui appuient en 5 sur les leviers inférieurs K o o, qui
+- a a, a: b b, b, les deux montans de l'un des côtés de la machine; ces montans sont assemblés l'un à l'autre à leur partie supérieure par deux entretoises c c, d d, enbrevées dans les montans que le chapeau e e recouvre & contient dans la situation verticale. Aux parties inférieures des montans sont des rainures 3, 4: 3, 4, qui reçoivent les languettes du support du tourillon f; les supports reposent sur le sommier H, à la partie inférieure duquel sont des pieces de fer 5, qui appuient en 5 sur les leviers inférieurs K o o, qui
  sont du second genre, ainsi qu'il a été dit ci-devant.
-	- K, extrémité de la barre de fer qui sert d'appui aux leviers inférieurs.
-	- O o o, tirant ou chaîne de fer, par le moyen de laquelle le levier supérieur O R tire le levier inférieur; cette chaîne est clavetée en-dessous du levier inférieur & en-dessus du levier supérieur.
-	- M, extrémité de la barre de fer qui sert de point d'appui aux leviers supérieurs; le dessus est un peu arrondi au point 6, & le levier est un peu entaillé en cette partie pour l'empêcher de glisser sur son appui.
+- K, extrémité de la barre de fer qui sert d'appui aux leviers inférieurs.
+- O o o, tirant ou chaîne de fer, par le moyen de laquelle le levier supérieur O R tire le levier inférieur; cette chaîne est clavetée en-dessous du levier inférieur & en-dessus du levier supérieur.
+- M, extrémité de la barre de fer qui sert de point d'appui aux leviers supérieurs; le dessus est un peu arrondi au point 6, & le levier est un peu entaillé en cette partie pour l'empêcher de glisser sur son appui.
 
 Les extrémités R des leviers supérieurs sont chargés par des poids r, que l'on augmente à discrétion. La corde qui suspend les poids, après avoir entouré l'extrémité du levier, va passer sur la poulie T, & de-là va s'enrouler sur le treuil Y, que l'on fait tourner pour relever les leviers au moyen de la corde sans-fin V u, u u, qui est reçue dans la cavité de la roue-poulie fixée sur le milieu du treuil.
 
-F, le cylindre de cuivre, dont les colets sont terminés en octogone, pour recevoir une roue dentée. Cette roue est menée par la lanterne E fixée sur l'axe de la manivelle.
-	- C, poignée de la manivelle, du centre de laquelle partent les quatre bras terminés par des boules de plomb, qui composent le volant: trois de ces quatre boules, de forme lenticulaire, sont visibles; la quatrieme est cachée par les montans de la machine.
-	- 2, 2, vis à pitons qui fixent le collier qui suspend le rouleau supérieur à l'entre-toise d d. Au-devant de la machine est le rouleau z, chargé de la piece d'étoffe que l'on veut cylindrer.
+- F, le cylindre de cuivre, dont les colets sont terminés en octogone, pour recevoir une roue dentée. Cette roue est menée par la lanterne E fixée sur l'axe de la manivelle.
+- C, poignée de la manivelle, du centre de laquelle partent les quatre bras terminés par des boules de plomb, qui composent le volant: trois de ces quatre boules, de forme lenticulaire, sont visibles; la quatrieme est cachée par les montans de la machine.
+- 2, 2, vis à pitons qui fixent le collier qui suspend le rouleau supérieur à l'entre-toise d d. Au-devant de la machine est le rouleau z, chargé de la piece d'étoffe que l'on veut cylindrer.
 
 L'analogie de cette machine est facile à trouver en multipliant par ordre les analogies particulieres de chaque levier; ainsi l'effort du poid r est à l'effort qui se fait en O, comme M O est à M R, le levier étant du premier genre. L'effort fait en O est le même que celui fait en o o, extrémité du levier inférieur K o o, qui est du second genre; & par la nature de ce levier, on aura que l'effort fait en o o, est à celui fait en H, comme K H est à K o o. Voici donc les deux analogies ou proportions, nommant r le poids suspendu à l'extrémité R du levier supérieur, & O, l'effort de ce poids réduit à l'extrémité supérieure du tirant vertical O o o, qui unit les deux leviers, & H, l'effort fait en H pour comprimer les cylindres, le premier levier donne cette proportion,
 
@@ -507,7 +503,7 @@ r. H:: M O x K H. M R x K o o
 
 proportion qui exprime le rapport de la puissance r, à l'effort fait en H; effort qui est la mesure de la compression des cylindres.
 
-Dans les figures les distances M O & K H, sont chacunes de 13 pouces & demi, le bras de levier M R a  2 toises 1 pied 6 pouces = 162 pouces, & le levier inférieur K o o, 1 toise 2 pieds 5 pouces = 101 pouces. Substituant donc ces valeurs dans la proportion précédente, elle deviendra r. H:: 13½ x 13½. 162 x 101, d'où on tire que le poids r est à l'effort fait en H, comme 182¼. 16362. Divisant le conséquent de ce rapport par son antécédent, on aura celui de l'unité 1 à 367/729: rapport qui ne differe que très-peu de celui d'1 à 90; prenant donc ce dernier rapport, la proportion ci-dessus deviendra celle-ci r. H:: 1. 90, par laquelle on voit que si le poids r est de 1000 livres, la force avec laquelle les cylindres sont comprimés sera de quatre-vingt-dix milliers.
+Dans les figures les distances M O & K H, sont chacunes de 13 pouces & demi, le bras de levier M R a 2 toises 1 pied 6 pouces = 162 pouces, & le levier inférieur K o o, 1 toise 2 pieds 5 pouces = 101 pouces. Substituant donc ces valeurs dans la proportion précédente, elle deviendra r. H:: 13½ x 13½. 162 x 101, d'où on tire que le poids r est à l'effort fait en H, comme 182¼. 16362. Divisant le conséquent de ce rapport par son antécédent, on aura celui de l'unité 1 à 367/729: rapport qui ne differe que très-peu de celui d'1 à 90; prenant donc ce dernier rapport, la proportion ci-dessus deviendra celle-ci r. H:: 1. 90, par laquelle on voit que si le poids r est de 1000 livres, la force avec laquelle les cylindres sont comprimés sera de quatre-vingt-dix milliers.
 
 
 PLANCHE CXXXV,

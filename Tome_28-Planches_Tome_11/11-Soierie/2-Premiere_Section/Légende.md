@@ -39,6 +39,7 @@ PLANCHE II,
 signée B.
 
 Fig.
+
 2. bis. Profil du tour de Piémont, vu du côté de la tourneuse ou du côté de la manivelle.
 	- Z Z Z Z, profil d'un des écheveaux qui entourent l'asple.
 	- I, étoile sur l'axe de l'asple.
@@ -72,7 +73,9 @@ PLANCHE III,
 
 signée C.
 
-Fig. 1. Représentation perspective du tour de M. de Vaucanson pour tirer la soie, vue du côté auquel doit être placée la chaudiere. Ce tour est comme le précédent, composé de quatre piés qui portent les jumelles, les piés & les jumelles sont entretenus ensemble par plusieurs traverses assujetties avec des clés.
+Fig.
+
+1. Représentation perspective du tour de M. de Vaucanson pour tirer la soie, vue du côté auquel doit être placée la chaudiere. Ce tour est comme le précédent, composé de quatre piés qui portent les jumelles, les piés & les jumelles sont entretenus ensemble par plusieurs traverses assujetties avec des clés.
 	- G, manivelle de l'asple.
 	- h H, axe de l'asple.
 	- f, f, F F, les lames sur lesquelles se forment les écheveaux.
@@ -104,6 +107,7 @@ PLANCHE IV,
 signée D.
 
 Fig.
+
 3. Coupe longitudinale ou profil du tour de M. de Vaucanson.
 	- G, manivelle.
 	- H, axe du devidoir. On voit les quatre roues qui font mouvoir le va- &-vient, la plus élevée est la roue I de la fig. 1. de la Planche précédente. Cette roue engraine avec celle de dessous qui est la plus grande, elle est désignée par la lettre K dans la fig. 1. Celle qui lui est concentrique & qu'il faut supposer derriere conduit la roue inférieure: c'est sur cette derniere qu'est fixée la cheville excentrique qui, au moyen d'une tringle, communique le mouvement au va- &-vient.
@@ -119,7 +123,8 @@ Fig.
 	- M, autre roue qui conduit la roue de l'excentrique.
 	- D E, poupée qui fixe le pivot supérieur de l'arbre vertical du va-&-vient.
 
-5. Elévation du devant du même tour. 1, 2, 3, les trois roulettes entre lesquelles tourne la lunette B B, garnie en B, B, d'un fil de fer, dont une des extrémités est tournée en anneau comme celle des guides.
+5. Elévation du devant du même tour.
+	- 1, 2, 3, les trois roulettes entre lesquelles tourne la lunette B B, garnie en B, B, d'un fil de fer, dont une des extrémités est tournée en anneau comme celle des guides.
 	- A A, la filiere.
 
 6. Maniere dont les fils sont croisés pour former deux écheveaux sur l'asple.
@@ -135,18 +140,23 @@ PLANCHE V,
 [![Planche 5](Planche_05.jpeg)](Planche_05.jpeg)
 
 signée E. Devidage de la soie sur le tour d'Espagne & doublage avec l'escaladou.
+
 La vignette représente l'intérieur d'une chambre dans laquelle sont deux ouvrieres occupées à ces opérations.
 
 Fig.
+
 1. Ouvriere qui devide un écheveau de soie, l'écheveau est étendu au moyen de deux pieces de bois verticales fixées dans des billots de bois; on nomme ces pieces de bois qui doivent être arrondies & polies extérieurement, des pelles; c'est sur ces deux pieces que l'on étale l'écheveau. Près d'une des pêles & sur le même billot est un montant, au haut duquel est assemblée à charniere une regle de bois; cette regle chargée par une de ses extrémités d'un poids suffisant pour la tenir élevée, est terminée par l'autre extrémité par un crochet de verre sur lequel passe le fil de soie qui de-là redescend au rochet du rouet sur lequel il s'enroule, & sur lequel la main gauche de l'ouvriere le conduit contre un va-&-vient, tandis que de la main droite elle imprime au rouet le mouvement de rotation.
 
 La regle à laquelle le crocher de verre est attaché est garnie d'une ficelle, par laquelle l'ouvriere l'abaisse pour pouvoir placer le bout de la soie sur le crochet. On a donné à cette piece le nom de cicogne.
 
 2. Ouvriere qui double plusieurs brins de soie ensemble en se servant de l'escaladou qu'elle tient sur ses genoux; elle a devant elle le tracanoir ou une banque, par lequel les rochets qui contiennent la soie simple sont portés, ou sont enfilés par des broches qui traversent les montans de cet instrument; de la main droite l'ouvriere imprime le mouvement de rotation à l'escaladou, & de la gauche elle guide les fils sur le rochet dont il est garni. Elles ont l'une & l'autre auprès d'elles un panier ou corbeille qui contient les rochets & les marchandises qu'elles doivent employer.
 
-On se sert aussi de l'escaladou pour devider la soie de dessus le tour d'Espagne; dans ce cas l'ouvriere, fig. 1. au-lieu d'avoir le tour d'Espagne à sa gauche comme la figure la représente, elle est tournée en face de l'écheveau & a l'escaladou sur ses genoux; de même aussi le doublage de la fig. 2. se fait avec le rouet de la fig. 1. dans ce cas la longueur du rouet est dirigée au tracanoir qui se trouve placé à la gauche de l'ouvriere, fig. 2. Bas de la Planche.
+On se sert aussi de l'escaladou pour devider la soie de dessus le tour d'Espagne; dans ce cas l'ouvriere, fig. 1. au-lieu d'avoir le tour d'Espagne à sa gauche comme la figure la représente, elle est tournée en face de l'écheveau & a l'escaladou sur ses genoux; de même aussi le doublage de la fig. 2. se fait avec le rouet de la fig. 1. dans ce cas la longueur du rouet est dirigée au tracanoir qui se trouve placé à la gauche de l'ouvriere, fig. 2.
+
+Bas de la Planche.
 
 Fig.
+
 1. Plan de l'escaladou.
 
 2. Elévation perspective de l'escaladou garni d'un rochet.
@@ -206,6 +216,7 @@ Fig.
 Bas de la Planche. Développement du rouet.
 
 Fig.
+
 2. Plan du rouet.
 	- a, la manivelle du rouet.
 	- b c, axe de la roue implanté dans le montant qui est unique.
@@ -218,7 +229,6 @@ Fig.
 	- a, la manivelle.
 	- e f, l'axe du rochet. On voit comment la corde passe obliquement sur la petite poulie de buis de l'axe e f.
 
-Fig.
 5. Coupe de la roue g h, & représentation de son axe.
 	- b, tenon qui traverse le montant du rouet.
 	- i, portée ou embâse.
@@ -237,11 +247,14 @@ Moulin de Piémont en perspective, & plan de la méchanique qui est au-dessous d
 La vignette représente l'intérieur d'une salle au rés-de-chaussée, dans laquelle on voit deux moulins; il y en a quelquefois un bien plus grand nombre rangés sur une seule ligne droite, auxquels la roue à eau, qu'un courant fait tourner, communique le mouvement au moyen d'un arbre horisontal caché au dessous du sol de l'attelier, comme on le voit par le plan au bas de la Planche & en A dans la vignette. La lettre A indique la roue dont on ne voit qu'une portion, & l'empellement au moyen duquel on lui donne ou supprime l'eau.
 
 Fig.
+
 1. Moulin à trois vargues ou trois étages, dans chacun desquels on a supprimé les fuseaux & les asples ou devidoirs pour laisser voir la cage ou partie tournante intérieure qui porte les strafins. Le corps du moulin est composé de seize montans, a b, g h, & assemblés haut & bas dans des cerces circulaires concentriques; à l'axe de la cage intérieure, la hauteur de chaque montant est divisée en trois parties par d'autres cerces c d, e f, qui, avec les inférieures a b & la supérieure g h, forment les trois étages ou vargues du moulin.
 
 La lanterne intérieure est de même divisée en trois étages par les serpes placées obliquement; l'axe i k de cette lanterne traverse en k le plancher pour communiquer le mouvement au devidage placé dans l'étage supérieur. Près de ce moulin, on voit l'escalier R S par lequel on monte au devidage représenté par la Planche suivante.
 
-2. Second moulin garni de tous ses fuseaux, asples, ponsonelles, & les mêmes lettres qu'à la figure précédente indiquent les trois étages ou vargues du moulin. On a supprimé dans l'intérieur les différentes pieces de bois qui composent la lanterne ou cage qui porte les serpes & les strafins, pour éviter la confusion; on a seulement conservé l'axe i k de cette lanterne. Bas de la Planche.
+2. Second moulin garni de tous ses fuseaux, asples, ponsonelles, & les mêmes lettres qu'à la figure précédente indiquent les trois étages ou vargues du moulin. On a supprimé dans l'intérieur les différentes pieces de bois qui composent la lanterne ou cage qui porte les serpes & les strafins, pour éviter la confusion; on a seulement conservé l'axe i k de cette lanterne.
+
+Bas de la Planche.
 
 Plan de la Méchanique au-dessous du rès-de-chaussée.
 	- A A, B B, empellement & coursier de décharge pour évacuer l'eau superflue.
@@ -267,10 +280,10 @@ Bas de la Planche.
 
 Plan d'un quart du devidage représenté dans la vignette; c'est le quart où est la lettre B, il est semblable en tout aux trois autres quarts, & est dessiné sur une échelle double.
 
-	- T, roue ou rouet fixée à la partie inférieure d'un des quatre arbres verticaux.
-	- y Y, z Z, banques garnies de rebords, sur lesquelles on pose les bobines & autres pieces de rechange.
-	- C D, c d: E F, e f, les quatre rangs de quinze tavelles chacun, sur lesquelles sont les écheveaux de soie qui doivent être devidés sur les bobines.
-	- G X, g V: u H, x h, les quatre rangs de quinze bobines: chaque bobine tire la soie de l'écheveau placé sur la tavelle correspondante; au-dessous de ces bobines, sont les roues non-dentées qui leur communiquent le mouvement; ces roues ou roulettes le reçoivent par les roues X & x fixées sur leur axe commun g h, & G H; les roues X & x engrenent avec les roues V & u que la roue T fait mouvoir.
+- T, roue ou rouet fixée à la partie inférieure d'un des quatre arbres verticaux.
+- y Y, z Z, banques garnies de rebords, sur lesquelles on pose les bobines & autres pieces de rechange.
+- C D, c d: E F, e f, les quatre rangs de quinze tavelles chacun, sur lesquelles sont les écheveaux de soie qui doivent être devidés sur les bobines.
+- G X, g V: u H, x h, les quatre rangs de quinze bobines: chaque bobine tire la soie de l'écheveau placé sur la tavelle correspondante; au-dessous de ces bobines, sont les roues non-dentées qui leur communiquent le mouvement; ces roues ou roulettes le reçoivent par les roues X & x fixées sur leur axe commun g h, & G H; les roues X & x engrenent avec les roues V & u que la roue T fait mouvoir.
 
 Les roues X & x engrenent encore avec les roues AE & oe. Ces dernieres portent un excentrique qui conduit les va-&-vient A B, a b, sur lesquels sont fixés les guides qui conduisent la soie sur les bobines, & la distribuent également sur toute leur longueur.
 
@@ -294,9 +307,11 @@ Le pilier A3 est dans le cas du pilier A1; le vuide entre ses deux jumelles est 
 
 Les piliers A4 & A6 sont garnis de leurs tablettes k & l: o & p, les tasseaux; la travée de A4 à A5 appartient à un des vargues supérieurs, & les trois autres A5 à A6: A6 à A7: A7 à A, appartiennent au vargue inférieur; la ponsonelle D du pilier A5 fait mouvoir au moyen d'une des roues dont son axe est garni, la roue M fixée sur une broche de fer M l; sur cette broche sont enfilées autant de bobines G G G qu'il y a de fuseaux dans chaque travée; la ponsonelle inférieure conduit de l'autre côté l'asple n N, dont l'axe repose d'un bout sur le tasseau o de la tablette du pilier A6; la ponsonelle D du pilier A7 conduit de même les deux asples n N, n N au moyen des roues q & r qui engrenent avec celles qui sont fixées sur l'axe de la ponsonelle: ces deux roues q & r sont fixées sur les axes des asples; leurs pivots p & s reposent sur les tasseaux des tablettes des piliers voisins de celui qui porte la ponsonelle; ces mêmes roues q & r, au moyen de quatre autres roues, conduisent le va-&-vient qui distribue la soie sur les bobines ou sur les asples.
 
-L'intérieur du moulin est occupé par le plan de la lanterne ou cage qui porte les serpes & les strafins; 1, 2, 3, 4, 5, 6, 7, 8, les huits montans ou chandelles de la cage tournante.
-	- B, l'arbre central & son tourillon supérieur.
-	- C 2: 2, 3: C 4: 4 C: 5, 6: 6 C: C 8: 8 C, les huit serpes ou cerces posées obliquement. Ces serpes, en passant sous les rodes des ponsonelles, font tourner ces dernieres, & par conséquent toutes les pieces auxquelles elles communiquent; les quatre rayons B 1, B 3, B 5, B 7 prolongés autant qu'il est nécessaire, portent à leurs extrémités les strafins qui frottent sur le ventre de la tige des fuseaux du côté extérieur du moulin dans le vargue inférieur, & du côté du dedans du moulin dans les vargues supérieurs.
+L'intérieur du moulin est occupé par le plan de la lanterne ou cage qui porte les serpes & les strafins;
+
+- 1, 2, 3, 4, 5, 6, 7, 8, les huits montans ou chandelles de la cage tournante.
+- B, l'arbre central & son tourillon supérieur.
+- C 2: 2, 3: C 4: 4 C: 5, 6: 6 C: C 8: 8 C, les huit serpes ou cerces posées obliquement. Ces serpes, en passant sous les rodes des ponsonelles, font tourner ces dernieres, & par conséquent toutes les pieces auxquelles elles communiquent; les quatre rayons B 1, B 3, B 5, B 7 prolongés autant qu'il est nécessaire, portent à leurs extrémités les strafins qui frottent sur le ventre de la tige des fuseaux du côté extérieur du moulin dans le vargue inférieur, & du côté du dedans du moulin dans les vargues supérieurs.
 
 
 PLANCHE XI,
@@ -310,11 +325,12 @@ Elévation géométrale du moulin pour organsiner les soies.
 
 Les six piliers que l'on voit dans cette figure sont cotés au-dessous de la semelle des mêmes lettres A1, A2, A3, A4, A5, A6, que dans le plan de la Planche précédente A1, a, a A6. Le vargue inférieur pour le premier apprêt que l'on donne à la soie a, R, R, a, un des deux vargues supérieurs; le troisieme est entierement semblable, la hauteur de la Planche n'a pas permis de le représenter: dans le vargue inférieur; les strafins passent en-devant, c'est à-dire en-dehors des fuseaux; & dans les deux vargues ou étages supérieurs, ils passent derriere ou en-dedans des fuseaux.
 
-	- B B porte boutons ou porte-crapaudine des fuseaux.
-	- C C porte-coquettes. Ces deux courbes sont suspendues dans l'intérieur du moulin par des goussets; au-dessus du porte-coquettes, on voit les bobines montées sur les fuseaux, & garnies en b b de leurs coronaires & fil de fer; plus haut en E E est le va-&-vient, au-dessus duquel sont les asples N n, N n, &c. auxquels les ponsonelles D, D, D, impriment le mouvement de rotation au moyen des roues M, dont leurs pivots sont garnis.
+- B B porte boutons ou porte-crapaudine des fuseaux.
+- C C porte-coquettes. Ces deux courbes sont suspendues dans l'intérieur du moulin par des goussets; au-dessus du porte-coquettes, on voit les bobines montées sur les fuseaux, & garnies en b b de leurs coronaires & fil de fer; plus haut en E E est le va-&-vient, au-dessus duquel sont les asples N n, N n, &c. auxquels les ponsonelles D, D, D, impriment le mouvement de rotation au moyen des roues M, dont leurs pivots sont garnis.
 
 Dans le vargue supérieur, on voit en a, a, le porte-boutons en d, d, le porte-coquettes, en f f les fuseaux.
-	- e e e, le va-&-vient, au-dessus duquel sont les bobines G G G mises en mouvement par les roues m des ponsonelles.
+
+- e e e, le va-&-vient, au-dessus duquel sont les bobines G G G mises en mouvement par les roues m des ponsonelles.
 
 Plus haut, en R R, est le porte-bouton du troisieme vargue: cette partie R R, semblable à la partie a a, est assemblée dans les faces latérales des piliers 1, 2, 3, 4, 5, 6, de même que les porte-coquettes. 
 
@@ -329,20 +345,22 @@ signée M.
 Coupe diamétrale du moulin de Piémont, & élévation de la lanterne ou cage qui est dans l'intérieur.
 
 Il faut concevoir que cette lanterne est placée dans l'intérieur du moulin, Planche précédente, dont on l'a séparée pour éviter la confusion, & qu'il y a au-dessus une répétition qui répond au troisieme vargue.
-	- A, A6, coupe de la semelle sur laquelle les piliers sont assemblés.
-	- V, pivot inférieur lorsqu'un homme placé dans l'intérieur de la cage la fait tourner; au-lieu de ce pivot, il faut imaginer l'arbre vertical & central prolongé en en-bas pour recevoir une des deux lanternes Q ou K au plan général, Pl. VIII. si c'est un courant d'eau qui met le moulin en mouvement.
-	- B B, porte-boutons dans lesquels entrent les pivots des fuseaux.
-	- C C, porte-coquettes, tous deux attachés à des goussets dans le vargue inférieur.
-	- e e, coupe du va-&-vient au-dessus duquel du côté du pilier A6 est la tablette, & du côté A les jumelles qui portent les ponsonelles D.
-	- M, roue dentée ou étoile fixée quarrément sur l'axe de la ponsonelle: cette roue conduit la roue n, celle-ci la roue o dentée de deux façons sur le champ & sur le plat; cette derniere denture engrene dans la roue p, qui porte l'excentrique qui conduit le va &-vient.
+
+- A, A6, coupe de la semelle sur laquelle les piliers sont assemblés.
+- V, pivot inférieur lorsqu'un homme placé dans l'intérieur de la cage la fait tourner; au-lieu de ce pivot, il faut imaginer l'arbre vertical & central prolongé en en-bas pour recevoir une des deux lanternes Q ou K au plan général, Pl. VIII. si c'est un courant d'eau qui met le moulin en mouvement.
+- B B, porte-boutons dans lesquels entrent les pivots des fuseaux.
+- C C, porte-coquettes, tous deux attachés à des goussets dans le vargue inférieur.
+- e e, coupe du va-&-vient au-dessus duquel du côté du pilier A6 est la tablette, & du côté A les jumelles qui portent les ponsonelles D.
+- M, roue dentée ou étoile fixée quarrément sur l'axe de la ponsonelle: cette roue conduit la roue n, celle-ci la roue o dentée de deux façons sur le champ & sur le plat; cette derniere denture engrene dans la roue p, qui porte l'excentrique qui conduit le va &-vient.
 
 Dans le vargue supérieur ou second vargue, les lettres a a indiquent le porte-bouton, les lettres d, d le porte-coquette; il en est de même du troisieme vargue, où les lettres R, R, indiquent le porte-bouton.
 	- D D, une des ponsonelles du second vargue.
 
 La lanterne intérieure composée de huit montans ou chandelles, dont on voit seulement cinq, 3, 3: 4, 4: 5, 5: 6, 6: 7, 7, porte les serpes C C c c, C C c c, &c. dans le vargue inférieur; les serpes c d, c d, &c. dans le vargue supérieur. Ces différentes serpes se succedent & prennent les rodes ou dents des ponsonelles par-dessous, ce qui les fait tourner; la lanterne porte aussi dans chaque vargue par quatre de ses bras prolongés quatre strafins.
-	- E e, dans le premier vargue.
-	- e2 E 2, dans le second.
-	- e3 E 3, dans le troisieme, qui en appuyant sur le ventre des fuseaux extérieurement dans le vargue inférieur, & intérieurement dans les deux vargues supérieurs font tourner les fuseaux d'un sens différent dans ces deux derniers vargues.
+
+- E e, dans le premier vargue.
+- e2 E 2, dans le second.
+- e3 E 3, dans le troisieme, qui en appuyant sur le ventre des fuseaux extérieurement dans le vargue inférieur, & intérieurement dans les deux vargues supérieurs font tourner les fuseaux d'un sens différent dans ces deux derniers vargues.
 
 
 PLANCHE XIII,
@@ -383,7 +401,7 @@ Fig.
 	- K a & a a, cavités, semi-circulaires pour recevoir un des tourillons de la ponsonelle.
 	- b, trou circulaire de la seconde jumelle pour recevoir l'autre tourillon de la ponsonelle. Cette jumelle est fermée, sa mâchoire supérieure est assujettie auprès de l'inférieure par un crochet & un piton semblables au crochet l & au piton L de la jumelle antérieure.
 
-Fig. 5. Ponsonelle, vue de champ.
+5. Ponsonelle, vue de champ.
 	- D D, la ponsonelle.
 	- c, c, embâses.
 	- b, b, tourillons.
@@ -467,12 +485,11 @@ Fig.
 
 Bas de la Planche.
 
-	- B B, B B, portion du porte bouton qui, dans chaque vargue, occupe la partie inférieure, & fait le tour du moulin.
-	- T, T, V, X, boutons de verre incrustés dans le bois.
-	- C C, C C, portion du porte-coquette qui entoure également le moulin.
-	- t u x, portion du chaperon des coquettes.
+- B B, B B, portion du porte bouton qui, dans chaque vargue, occupe la partie inférieure, & fait le tour du moulin.
+- T, T, V, X, boutons de verre incrustés dans le bois.
+- C C, C C, portion du porte-coquette qui entoure également le moulin.
+- t u x, portion du chaperon des coquettes.
 
-Fig.
 5. Fuseau garni de toutes ses dépendances.
 	- o r, le guide attaché à la coronelle.
 	- O, la bobine.
@@ -494,7 +511,8 @@ PLANCHE XVI,
 signée Q. Developpement du va-&-vient & des strafins:
 
 Fig.
-1.
+
+1. 
 	- E, E e, Portion du va-&-vient du moulin.
 	- I, I, I, I, les guides dans lesquels passe la soie après etre sortie de l'anneau supérieur des coronelles représentées dans la Planche précédente.
 	- P, roue qui est mise en mouvement par les ponsonelles au moyen de plusieurs roues intermédiaires, comme on voit dans les Planches X. & XI.
@@ -543,7 +561,9 @@ signée R.
 
 Profils du devidage qui est au-dessus des moulins à organsiner les soies, représenté en perspective dans la Planche IX.
 
-Fig. 1.
+Fig.
+
+1. 
 	- X Y, Arbre vertical ou prolongation de l'axe de la lanterne qui occupe l'intérieur du moulin.
 	- a, aa, rouet qui engrene dans les deux lanternes.
 	- b, bb, la lanterne b est portée par l'arbre horisontal z c qui porte le rouet c. Ce rouet engrene dans la lanterne d de l'arbre vertical d e. Ce dernier arbre porte à sa partie inférieure un rouet ou roue dentée 1, qui, au moyen des roues 2 & 3, met en mouvement la roue 4 qui porte l'excentrique conducteur du va-&-vient représenté au-dessous de la poulie 4 par un petit quarré. L'excentrique 5 est conduit par de semblables roues, comme on le voit au-bas de la Planche IX. où ces roues sont indiquées par les lettres u x ou V X, & la roue 1 de la figure dont nous faisons l'explication l'est par la lettre T.
@@ -586,8 +606,9 @@ Fig.
 Bas de la Planche.
 
 La figure du milieu représente une tavelle en perspective.
-	- G G, pivots de la tavelle sur le milieu de l'arbre de laquelle est enfilé un anneau E F auquel un poids H est suspendu pour procurer un frottement suffisant & une tension convenable à la soie.
-	- A a, B b, C c, D d, les quatre coulans de la tavelle sur lesquels l'écheveau de soie est placé.
+
+- G G, pivots de la tavelle sur le milieu de l'arbre de laquelle est enfilé un anneau E F auquel un poids H est suspendu pour procurer un frottement suffisant & une tension convenable à la soie.
+- A a, B b, C c, D d, les quatre coulans de la tavelle sur lesquels l'écheveau de soie est placé.
 
 2. Noix dont l'axe reçoit la bobine.
 	- b & c, pivots qui sont arrondis.
@@ -596,7 +617,6 @@ La figure du milieu représente une tavelle en perspective.
 3. La même noix a garnie de sa bobine R.
 	- e f, les pivots  qui entrent dans les fentes des cloisons S & T, fig. 1.
 
-Fig.
 4. Roue & son canon.
 	- A B C, la roue qui tourne dans l'ordre des lettres pour faire tourner la noix en sens contraire, & faire que la soie s'enroule sur la bobine par le dessus.
 	- D E, canon de la roue; il est percé intérieurement d'un trou quarré traversé par la tringle quarrée de la roue D de la fig. 1. Cette tringle conduit & fait tourner avec elle trente roues, & par conséquent trente bobines qui tirent la soie de trente tavelles, ce qui fait soixante écheveaux qui sont devidés à-la-fois dans chaque quart du devidage que la vignette de la Planche IX. représente, c'est-à-dire deux cens quarante en tout.
@@ -616,7 +636,8 @@ Fig.
 	- A A, le bâtis ou établi de l'ovale.
 	- B B B B, grande assiette.
 	- G G G G, petite assiette, au milieu de laquelle on a réservé un vuide.
-	- F F F, les trois poulies qui soutiennent la courroie. g h i k, les quatre montans.
+	- F F F, les trois poulies qui soutiennent la courroie.
+	- g h i k, les quatre montans.
 	- D, grande roue ou poulie sur laquelle passe la courroie.
 	- C, la manivelle de cette roue.
 
@@ -641,6 +662,7 @@ PLANCHE XX,
 signée V. Coupes transversales & développemens de plusieurs parties de l'ovale.
 
 Fig.
+
 3. Plan du va-&-vient qui est de forme ovale.
 	- S S, regle par laquelle le va-&-vient est porté.
 	- N O N O, le va-&-vient garni d'autant d'anneaux de fil de fer qu'il y a de bobines tournantes sur l'ovale.
@@ -655,17 +677,18 @@ Fig.
 	- Y, pignon qui conduit la roue Z de l'asple ou devidoir P.
 	- a a, chapeau.
 
-5. Elévation latérale de la premiere partie. On a supprimé le montant k de la fig. 2. pour laisser voir toutes les roues & pignons qui servent à compter les révolutions de l'asple. 2, pignon qui conduit la roue 3.
+5. Elévation latérale de la premiere partie. On a supprimé le montant k de la fig. 2. pour laisser voir toutes les roues & pignons qui servent à compter les révolutions de l'asple.
+	- 2, pignon qui conduit la roue 3.
 	- e, pignon fixé sur la roue 3; il conduit la roue 4, sur la tige de laquelle est fixé un autre pignon f qui conduit la roue de compte 5, sur laquelle est une cheville 6 qui leve la queue du marteau attaché au montant que l'on a supprimé.
 
-6. Situation respective de la sonnette 8 du marteau 9, dont la queue 7 est élevée par la cheville dont on a parlé dans l'explication de la figure précédente. 10, ressort qui abaisse la queue du marteau & le fait frapper sur le timbre ou sonnette 8.
+6. Situation respective de la sonnette 8 du marteau 9, dont la queue 7 est élevée par la cheville dont on a parlé dans l'explication de la figure précédente.
+	- 10, ressort qui abaisse la queue du marteau & le fait frapper sur le timbre ou sonnette 8.
 
 7. Une des broches ou fuseaux dessinée sur une proportion double.
 	- t, pointe du fuseau qui entre dans la crapaudine de verre.
 	- t u, fuseau sur le ventre duquel s'applique la courroie.
 	- u y, partie quarrée de la tige; cette partie reçoit la bobine chargée de la soie que l'on veut ovaler.
 
-Fig.
 8. Fuseau garni de sa bobine K & de son coronaire L.
 	- x & z, anneaux du coronaire.
 
@@ -686,7 +709,6 @@ Fig.
 
 2. Le même rouet en perspective, vu du côté où se place l'ouvriere. 
 
-Fig.
 3. Machine nommée chambriere, qui sert à l'ouvriere pour démêler les écheveaux qu'elle veut devider avant de les mettre sur les guindres.
 
 
@@ -698,6 +720,7 @@ PLANCHE XXII,
 signée Y. Développemens du rouet de Lyon.
 
 Fig.
+
 4. Elévation géométrale du rouet du côté opposé à l'ouvriere.
 
 5. Plan géométral du rouet.

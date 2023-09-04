@@ -1,5 +1,4 @@
-SOIERIE - QUATRIEME SECTION
----------------------------
+SOIERIE - QUATRIEME SECTION ---------------------------
 
 Contenant la fabrique des Velours, & autres objets appartenans à la fabrique en général. 
 
@@ -7,107 +6,118 @@ Contenant la fabrique des Velours, & autres objets appartenans à la fabrique en
 PLANCHE XCI
 -----------
 
-[![Planche 91](Planche_91.jpeg)](Planche_91.jpeg)
+[![Planche 91](Planche_091.jpeg)](Planche_091.jpeg)
 
 signée y y.
 
 Elévation perspective du métier pour fabriquer le velours ciselé, vu dans l'instant de la tire & du passage des sers.
 
-A B, pilier de devant à droite de l'ouvrier.
-	- E F, pilier de derriere; ces deux piliers portent l'estaze A E parallele à une semblable piece, supportée par le second pilier de devant & par le second pilier de derriere.
-	- e f K L, l'ensuple de devant.
-	- s s, l'ensuple de derriere, sur laquelle est ployée la chaîne ou toile du velours.
-	- 9, 9: 10, 10, envergeure pour l'encroix des fils de la chaîne qui traverse le corps entre les mailles en 5 5 & les remisses de plusieurs lisses 3, 4. Elle passe ensuite dans le peigne contenu dans le battant.
-
-y, la masse du battant.
-	- x, sa poignée.
-	- x x, le haut d'une de ses deux lames.
-	- e f, traverse qui assemble les deux lames.
+- A B, pilier de devant à droite de l'ouvrier.
+- E F, pilier de derriere; ces deux piliers portent l'estaze A E parallele à une semblable piece, supportée par le second pilier de devant & par le second pilier de derriere.
+- e f K L, l'ensuple de devant.
+- s s, l'ensuple de derriere, sur laquelle est ployée la chaîne ou toile du velours.
+- 9, 9: 10, 10, envergeure pour l'encroix des fils de la chaîne qui traverse le corps entre les mailles en 5 5 & les remisses de plusieurs lisses 3, 4. Elle passe ensuite dans le peigne contenu dans le battant.
+- y, la masse du battant.
+- x, sa poignée.
+- x x, le haut d'une de ses deux lames.
+- e f, traverse qui assemble les deux lames.
 
 Près le battant est le carette double, dont on ne voit  qu'une partie.
-	- m m, chassis du carette.
-	- h, un des chevalets pour recevoir les queues e e des ailerons. Les ailerons communiquent par les cordes verticales e 7, e 7, aux contre-marches ou quarquerons 7, 7, au lieu desquels on employe des arbalêtres pour les lisses auxquelles elles conviennent, les uns ou les autres sont attachés par des cordes nommées étrivieres aux marches N Q, n q, qui font mouvoir les lisses dont on a supprimé les contre-poids pour éviter la confusion.
-	- N n, axe ou cheville qui traverse la caisse & les marches.
-	- M, pierre pour charger la caisse des marches & la rendre stable.
+
+- m m, chassis du carette.
+- h, un des chevalets pour recevoir les queues e e des ailerons. Les ailerons communiquent par les cordes verticales e 7, e 7, aux contre-marches ou quarquerons 7, 7, au lieu desquels on employe des arbalêtres pour les lisses auxquelles elles conviennent, les uns ou les autres sont attachés par des cordes nommées étrivieres aux marches N Q, n q, qui font mouvoir les lisses dont on a supprimé les contre-poids pour éviter la confusion.
+- N n, axe ou cheville qui traverse la caisse & les marches.
+- M, pierre pour charger la caisse des marches & la rendre stable.
 
 A côté du carette est le cassin.
-	- L L, chassis du cassin.
-	- H, le haut du cassin.
-	- T T, bâton de la queue du rame, dont les cordes T S, après avoir passé sur les poulies du cassin, descendent s'attacher aux arcades.
-	- n n, planche percée que les branches des arcades traversent pour s'attacher ensuite aux mailles supérieures du corps en o o. Ces mailles passent entre les fils 5, 9, 10 s: 5, 9, 10 s, de la toile, & supportent les maillons de verre 6, dans lesquels le poil ou fil des roquetins de la cantre sont passés. Au-dessous des maillons sont les mailles inférieures auxquelles les aiguilles de plomb qui font descendre les maillons sont attachées.
+
+- L L, chassis du cassin.
+- H, le haut du cassin.
+- T T, bâton de la queue du rame, dont les cordes T S, après avoir passé sur les poulies du cassin, descendent s'attacher aux arcades.
+- n n, planche percée que les branches des arcades traversent pour s'attacher ensuite aux mailles supérieures du corps en o o. Ces mailles passent entre les fils 5, 9, 10 s: 5, 9, 10 s, de la toile, & supportent les maillons de verre 6, dans lesquels le poil ou fil des roquetins de la cantre sont passés. Au-dessous des maillons sont les mailles inférieures auxquelles les aiguilles de plomb qui font descendre les maillons sont attachées.
 
 Au-devant du corps, dont on ne voit qu'une partie, est le sample S R, & la gavassiniere Z R2.
-	- r r, pitons fixés au plancher pour attacher le bâton R R2 du sample & la gavassiniere. Au-devant du sample, au-dessous des extrémités L L du chassis du cassin est le bâton des lacs; ce bâton est suspendu par deux cordes attachées au plancher. On a supprimé ici ces deux cordes pour ne point cacher d'autres objets, elles se retrouveront dans la Planche suivante.
+
+- r r, pitons fixés au plancher pour attacher le bâton R R2 du sample & la gavassiniere. Au-devant du sample, au-dessous des extrémités L L du chassis du cassin est le bâton des lacs; ce bâton est suspendu par deux cordes attachées au plancher. On a supprimé ici ces deux cordes pour ne point cacher d'autres objets, elles se retrouveront dans la Planche suivante.
 
 Près du sample est la machine pour la tire.
-	- a b, c d, les patins de la machine.
-	- a h, c g, les deux montans.
-	- n t, levier qui est abaissé.
-	- g p, entre-toise qui affermit les fourches entre lesquelles les cordes que le lac a tirées sont passées.
+
+- a b, c d, les patins de la machine.
+- a h, c g, les deux montans.
+- n t, levier qui est abaissé.
+- g p, entre-toise qui affermit les fourches entre lesquelles les cordes que le lac a tirées sont passées.
 
 Entre la caisse des marches & les piliers de derriere du métier est placée la cantre qui contient les roquetins qui fournissent le poil du velours.
-	- a a, b b, c c, d d, le chassis incliné de la cantre supporté par quatre piés. On trouvera le développement de la cantre dans une des Planches suivantes.
+
+- a a, b b, c c, d d, le chassis incliné de la cantre supporté par quatre piés. On trouvera le développement de la cantre dans une des Planches suivantes.
 
 
 PLANCHE XCII,
 -------------
 
-[![Planche 92](Planche_92.jpeg)](Planche_92.jpeg)
+[![Planche 92](Planche_092.jpeg)](Planche_092.jpeg)
 
 signée z z.
 
 Elévation latérale du métier pour fabriquer le velours ciselé, vu dans l'instant qui précede celui de la tire.
-	- A B, pilier de devant.
-	- E F, pilier de derriere sur lesquels l'estaze A E est assemblée.
-	- K, cric à l'extrémité de l'ensouple de devant.
-	- S, ensouple de derriere.
-	- 9 10, envergeures des fils de la chaîne.
+
+- A B, pilier de devant.
+- E F, pilier de derriere sur lesquels l'estaze A E est assemblée.
+- K, cric à l'extrémité de l'ensouple de devant.
+- S, ensouple de derriere.
+- 9 10, envergeures des fils de la chaîne.
 
 Près l'ensouple de devant est le battant.
-	- y, la masse du battant.
-	- x, sa poignée.
-	- x x, le haut d'une des lames.
+
+- y, la masse du battant.
+- x, sa poignée.
+- x x, le haut d'une des lames.
 
 A côté du battant sont les lisses ou remisses pour le poil & pour la toile, les unes & les autres suspendues au carette.
-	- m m, extrémité des brancards ou longs côtés du carette.
-	- h, chevalet.
-	- e, e, extrémités des ailerons.
-	- 3 à 1, extrémités des lisserons d'en-haut.
-	- 4 à 2, extrémités des lisserons d'en-bas.
-	- 7 à 7, extrémités des quarquerons ou des arbalêtres qui sont attachées aux marches N Q par les étrivieres.
-	- N, caisse des marches.
-	- M, pierre dont elle est chargée.
-	- 8 à 8, contrepoids pour remettre les lisses en situation lorsque l'ouvrier abandonne les marches.
+
+- m m, extrémité des brancards ou longs côtés du carette.
+- h, chevalet.
+- e, e, extrémités des ailerons.
+- 3 à 1, extrémités des lisserons d'en-haut.
+- 4 à 2, extrémités des lisserons d'en-bas.
+- 7 à 7, extrémités des quarquerons ou des arbalêtres qui sont attachées aux marches N Q par les étrivieres.
+- N, caisse des marches.
+- M, pierre dont elle est chargée.
+- 8 à 8, contrepoids pour remettre les lisses en situation lorsque l'ouvrier abandonne les marches.
 
 Près du carette est placé le cassin.
-	- L L, extrémités du brancard du cassin.
-	- L H, L H, les côtés inclinés du cassin.
-	- T T, le bâton de la queue du rame vue en racourci.
-	- S S, le rang inférieur des yeux de perdrix auxquels les cordes du sample sont attachées.
-	- S R, S R, les cordes du sample.
-	- R R, bâton du sample.
-	- r r, pitons auxquels ce bâton est attaché.
-	- Z R, la gavassiniere qui sert de guide aux gavassines des lacs que la tireuse fait descendre les uns après les autres de dessus le bâton placé au-dessous de L L.
+
+- L L, extrémités du brancard du cassin.
+- L H, L H, les côtés inclinés du cassin.
+- T T, le bâton de la queue du rame vue en racourci.
+- S S, le rang inférieur des yeux de perdrix auxquels les cordes du sample sont attachées.
+- S R, S R, les cordes du sample.
+- R R, bâton du sample.
+- r r, pitons auxquels ce bâton est attaché.
+- Z R, la gavassiniere qui sert de guide aux gavassines des lacs que la tireuse fait descendre les uns après les autres de dessus le bâton placé au-dessous de L L.
 
 La machine pour la tire qui est auprès à une de ses fourches p s, passée derriere les cordes du sample que le lac à tirées, l'autre fourche l r passe devant les mêmes cordes pour leur servir de point d'appui lorsqu'on baissera le levier n t en-devant.
-	- l, m, n, les trois roulettes de devant du coulant de la machine.
-	- g h, jumelle de devant.
-	- a h, c g, les deux montans. a & c les patins.
+
+- l, m, n, les trois roulettes de devant du coulant de la machine.
+- g h, jumelle de devant.
+- a h, c g, les deux montans. a & c les patins.
 
 Entre la caisse des marches & les piliers de derriere est la cantre qui contient les roquetins.
-	- a a, b b, un des longs côtés du chassis incliné de la cantre, au-dessous duquel on voit les poids de plomb qui servent à bander la soie des roquetins.
+
+- a a, b b, un des longs côtés du chassis incliné de la cantre, au-dessous duquel on voit les poids de plomb qui servent à bander la soie des roquetins.
 
 
 PLANCHE XCIII,
 --------------
 
-[![Planche 93](Planche_93.jpeg)](Planche_93.jpeg)
+[![Planche 93](Planche_093.jpeg)](Planche_093.jpeg)
 
 signée a a a.
 
 Plan de la cantre & développement des roquetins.
 
 Fig.
+
 1. Cette cantre est disposée pour mille roquetins, cinq cens dans chaque moitié.
 	- A B, C D, les longs côtés du chassis de la cantre.
 	- a c, b d, les deux petits côtés ou les traverses assemblées à tenons & mortoises.
@@ -115,7 +125,6 @@ Fig.
 	- G, partie de la cantre garnie des broches de fer sur lesquelles doivent être enfilés les roquetins.
 	- H, partie de la cantre dont on à retiré les broches.
 
-Fig.
 2. Coupe longitudinale de la cantre antérieurement à la traverse E F de la figure précédente.
 	- C & D, extrémités de l'un des longs côtés du chassis.
 	- E, F, coupe des deux petites traverses & assemblage de la traverse du milieu.
@@ -135,13 +144,14 @@ Fig.
 PLANCHE XCIV,
 -------------
 
-[![Planche 94](Planche_94.jpeg)](Planche_94.jpeg)
+[![Planche 94](Planche_094.jpeg)](Planche_094.jpeg)
 
 signée b b b. Développement du battant brisé du métier pour fabriquer le velours.
 
 On se sert de ce battant pour faire dresser le fer de coupe avec facilité.
 
 Fig.
+
 1. Le battant brisé assemblé avec toutes les pieces qui en dépendent.
 	- y, y, la masse du battant.
 	- x, x, la poignée; le peigne est placé entre ces deux pieces.
@@ -170,17 +180,17 @@ Fig.
 PLANCHE XCV,
 ------------
 
-[![Planche 95](Planche_95.jpeg)](Planche_95.jpeg)
+[![Planche 95](Planche_095.jpeg)](Planche_095.jpeg)
 
 signée c c c.
 
 Construction de l'entacage servant à tendre le velours coupé & à le fixer à l'ensouple de devant pendant la fabrication, sans froisser le poil du velours, comme il arriveroit, si au-lieu de se servir de l'entacage, le velours s'enrouloit sur lui-même, sur l'ensuple de devant, comme on enroule les taffetas Les velours frisés ne sont point entaqués; au-lieu de l'entacage on se sert d'une ensouple hérissée de plusieurs rangs de petites pointes qui retiennent l'étoffe par l'envers.
 
 Fig.
+
 1. Barre de fer, dont deux faces sont planes & les deux autres un peu arrondies.
 	- A & B, les deux extrémités qui sont quarrées pour être reçues dans les entailles de même forme de la figure suivante. La longueur entre les deux parties quarrées doit être de demi-aune. Cette longueur rapportée à l'échelle du bas de la Planche n'ayant pas pu tenir dans la largeur du format, on a fracturé cette barre en C, ainsi que les autres figures où cela a été nécessaire.
 
-Fig.
 2. Le bois de l'entacage.
 	- D, E, dés de bois assemblés l'un à l'autre par une regle F, à laquelle on a pratiqué une feuillure en équerre vue du côté du dehors.
 	- a & b, entailles pour recevoir les parties quarrées de la figure précédente.
@@ -205,20 +215,21 @@ Fig.
 PLANCHE XCVI,
 -------------
 
-[![Planche 96](Planche_96.jpeg)](Planche_96.jpeg)
+[![Planche 96](Planche_096.jpeg)](Planche_096.jpeg)
 
 signée d d d. Maniere d'entaquer le Velours.
 
 Toutes les figures de cette Planche & de la suivante sont des coupes transversales de l'entacage de la grandeur effective de cette machine. Dans toutes les figures la piece de velours est indiquée par les lettres C V. V est le côté du velours fabriqué, & C le côté qui prolongé communique à la chaîne qui vient de l'ensouple de derriere du métier.
 
 Fig.
-9. Premiere opération. La regle de bois de l'entacage posée sur le poil du velours. 1 2 3 4, un des deux dés de bois dans lesquels la regle E F est assemblée. Ces dés embrassent les lisieres.
+
+9. Premiere opération. La regle de bois de l'entacage posée sur le poil du velours.
+	- 1 2 3 4, un des deux dés de bois dans lesquels la regle E F est assemblée. Ces dés embrassent les lisieres.
 
 10. Seconde opération. Il faut faire tourner un demi-tour la regle E F dans l'ordre des chiffres 1 2 3 4, & placer ensuite par-dessous le velours la rape H h dans les entailles des deux dés destinés à la recevoir.
 
 11. Troisieme opération. Faire tourner un quart de tour, & placer la regle de fer A par-dessous le velours la rape & la regle; en cet état on place les boîtes de tôle, fig. 5. & 6. sur les dés, ce qui assujettit les regles, on place ensuite le tout dans la boîte, fig. 8. 
 
-Fig.
 12. Coupe de la boîte de bois qui reçoit l'entacage, on voit au fond les feuillures où se placent les parties quarrées de l'une des boîtes, fig. 5. & 6.
 
 13. La boîte dans laquelle les regles sont placées & où elles sont indiquées par les mêmes lettres.
@@ -233,11 +244,12 @@ Fig.
 PLANCHE XCVII,
 --------------
 
-[![Planche 97](Planche_97.jpeg)](Planche_97.jpeg)
+[![Planche 97](Planche_097.jpeg)](Planche_097.jpeg)
 
 signée e e e.
 
 Fig.
+
 17. Quatrieme quart de conversion de la boîte, qui se retrouve alors dans la situation de la fig. 13. C'est dans cet état que l'on introduit la boîte & le velours dont elle est entourée dans l'entaille de l'ensouple représentée en profil par le cercle de la figure.
 	- Q R S T, rainure de l'ensouple.
 	- 1, 2, 3, 4, la boîte.
@@ -259,13 +271,14 @@ On désantaque lorsque l'on a fabriqué une longueur de velours égale à la cir
 PLANCHE XCVIII,
 ---------------
 
-[![Planche 98](Planche_98.jpeg)](Planche_98.jpeg)
+[![Planche 98](Planche_098.jpeg)](Planche_098.jpeg)
 
 signée f f f.
 
 Cette Planche & la suivante font voir les différens mouvemens des lisses pour la toile & pour le poil qui forment le velours frisé.
 
 Fig.
+
 1. Toutes les lisses en repos.
 	- C V, la toile.
 	- C, le côté de la chaîne qui va à l'ensouple de derriere du métier.
@@ -276,7 +289,6 @@ Fig.
 
 2. Dans laquelle les mêmes lettres indiquent les mêmes objets. Le remisse a a, b b du poil p est levé, ce qui fait paroître le poil p au-dessus de la chaîne, dont tous les fils sont au-dessous. C'est dans cet instant que le fer rond, garni de sa pedonne, est passé entre la chaîne & le poil; il est indiqué par un zéro. Après qu'il est passé on donne un coup de battant pour le serrer près le point B, dans le fond de l'angle que forme la toile & le poil.
 
-Fig.
 3. Premier coup de navette pour assurer le fer près de l'étoffe F V précédemment fabriquée; pour cette opération on fait baisser le remisse a a, b b du poil & lever la moitié de la chaîne ou toile, & baisser l'autre moitié.
 	- 22, 44, lisses de la toile qui sont levées.
 	- 11, 33, lisses de la toile qui sont baissées; c'est dans l'espace triangulaire en-devant du peigne que l'on fait passer la navette dont le fil est indiqué par un point noir.
@@ -285,11 +297,12 @@ Fig.
 PLANCHE XCIX,
 -------------
 
-[![Planche 99](Planche_99.jpeg)](Planche_99.jpeg)
+[![Planche 99](Planche_099.jpeg)](Planche_099.jpeg)
 
 signée g g g.
 
 Fig.
+
 4. Second coup de navette après le passage du fer de frisé. Avant de passer la navette on fait lever le remisse a a, b b du poil & la moitié de la chaîne qui étoit baissée au coup précédent. On abaisse aussi, au moyen des marches convenables, la moitié de chaîne qui avoit levé.
 	- 11, 33, lisses de la toile qui sont baissées.
 	- 22, 44, lisses de la toile qui sont levées avec le poil, au-dessous desquels & en devant du peigne on passe alors la navette dont le fil est aussi indiqué par un point.
@@ -320,11 +333,12 @@ Fig.
 PLANCHE C,
 ----------
 
-[![Planche 100](Planche_100.jpeg)](Planche_100.jpeg)
+[![Planche 100](Planche_0100.jpeg)](Planche_0100.jpeg)
 
 signée h h h. Velours raz d'Angleterre.
 
 Fig.
+
 1. Cette étoffe porte en largeur onze vingt-quatriemes d'aune entre les deux lisieres.
 
 La chaîne est de cinquante portées doubles d'organsin à trois bouts, pesant deux onces trois quarts l'aune.
@@ -339,7 +353,6 @@ Peigne de vingt-cinq portées ou mille dents, à quatre fils par dent.
 
 Dans le remisse de quatre lisses les fils de la chaîne sont passés dans la maille comme l'est le fil A C dans la maille B fig. 2. Planche LXIX. Velours frisé sans cantre.
 
-Fig.
 2. Cette étoffe porte aussi en largeur onze vingt-quatriemes d'aune entre les deux lisieres.
 
 Le velours frisé sans cantre a trois ensouples; sçavoir deux ensouples pour la chaîne principale qui fait le corps de l'étoffe, & une ensouple pour le poil qui fait le façonné.
@@ -368,13 +381,14 @@ Les fers sont ronds, & on les tire du corps de l'etoffe avec la fourche, comme i
 PLANCHE CI,
 -----------
 
-[![Planche 101](Planche_101.jpeg)](Planche_101.jpeg)
+[![Planche 101](Planche_0101.jpeg)](Planche_0101.jpeg)
 
 signée i i i.
 
 Cette Planche & les deux suivantes sont voir les mouvemens successifs des lisses pour la toile & de celle pour le poil, au moyen desquels on fabrique le velours coupé, en plein.
 
 Fig.
+
 1. Passage du fer.
 	- V A, le velours fait; du côté de V il va à l'entacage contenu dans la rainure de l'ensouple de devant.
 	- B, bâton placé derriere le remisse, il est suspendu par deux cordes aux estazes du métier, & sert à soutenir le poil.
@@ -389,11 +403,12 @@ Fig.
 PLANCHE CII,
 ------------
 
-[![Planche 102](Planche_102.jpeg)](Planche_102.jpeg)
+[![Planche 102](Planche_0102.jpeg)](Planche_0102.jpeg)
 
 signée k k k.
 
 Fig.
+
 4. Troisieme coup de navette après le passage du fer, le poil A p P est baissé, & la seconde lisse de toile 22, toutes les autres sont levées. C'est dans cet état que la navette est lancée dans l'ouverture qui est au-devant du peigne, son fil ou trame est indiqué par un point.
 
 5. Passage du second fer; toutes les lisses de toile 11, 22, 33, 44, 55, 66, sont remises de niveau, le poil seulement est levé.
@@ -405,7 +420,7 @@ Fig.
 PLANCHE CIII,
 -------------
 
-[![Planche 103](Planche_103.jpeg)](Planche_103.jpeg)
+[![Planche 103](Planche_0103.jpeg)](Planche_0103.jpeg)
 
 signée l l l.
 
@@ -434,7 +449,7 @@ Fig.
 PLANCHE CIV,
 ------------
 
-[![Planche 104](Planche_104.jpeg)](Planche_104.jpeg)
+[![Planche 104](Planche_0104.jpeg)](Planche_0104.jpeg)
 
 signée m m m.
 
@@ -487,7 +502,7 @@ Ce sont les boucles qui entourent le second fer qui servent de point d'appui & d
 PLANCHE CV,
 -----------
 
-[![Planche 105](Planche_105.jpeg)](Planche_105.jpeg)
+[![Planche 105](Planche_0105.jpeg)](Planche_0105.jpeg)
 
 signée n n n. Velours d'Hollande à trois lisses.
 
@@ -529,7 +544,7 @@ Peigne de même, quatre fils de toile & deux fils de poil dans chaque dent.
 PLANCHE CVI,
 ------------
 
-[![Planche 106](Planche_106.jpeg)](Planche_106.jpeg)
+[![Planche 106](Planche_0106.jpeg)](Planche_0106.jpeg)
 
 signée o o o. Velours à six lisses façon de Genes.
 
@@ -572,7 +587,7 @@ Peigne de vingt portées ou huit cens dents, quatre fils de toile & un fil de po
 PLANCHE CVII,
 -------------
 
-[![Planche 107](Planche_107.jpeg)](Planche_107.jpeg)
+[![Planche 107](Planche_0107.jpeg)](Planche_0107.jpeg)
 
 signée p p p. Velours frisé, fond satin sans cantre, monté sur trois ensouples.
 
@@ -616,7 +631,7 @@ Quatorze fils dans chaque dent.
 PLANCHE CVIII,
 --------------
 
-[![Planche 108](Planche_108.jpeg)](Planche_108.jpeg)
+[![Planche 108](Planche_0108.jpeg)](Planche_0108.jpeg)
 
 signée q q q. Velours frisé, coupé, fond satin 1000 roquetins.
 
@@ -652,7 +667,7 @@ Douze fils de piece ou chaîne & deux fils de poil des roquetins, font par dent 
 PLANCHE CIX,
 ------------
 
-[![Planche 109](Planche_109.jpeg)](Planche_109.jpeg)
+[![Planche 109](Planche_0109.jpeg)](Planche_0109.jpeg)
 
 signée r r r. Velours frisé, coupé, fond satin, 1600 roquetins.
 
@@ -680,7 +695,7 @@ Peigne d'acier de vingt portées ou huit cens dents; huit fils de piece & deux f
 PLANCHE CX,
 -----------
 
-[![Planche 110](Planche_110.jpeg)](Planche_110.jpeg)
+[![Planche 110](Planche_0110.jpeg)](Planche_0110.jpeg)
 
 signée s s s. Velours frisé, coupé, fond or.
 
@@ -726,7 +741,7 @@ Les roquetins doivent être montés à trois ou à quatre bouts d'organsin, pour
 PLANCHE CXI,
 ------------
 
-[![Planche 111](Planche_111.jpeg)](Planche_111.jpeg)
+[![Planche 111](Planche_0111.jpeg)](Planche_0111.jpeg)
 
 signée t t t.
 
@@ -739,7 +754,6 @@ Fig.
 	- A D, autre regle qui s'applique sur la premiere; c'est entre ces deux regles qu'on place le dessein.
 	- a, cheville pour fixer les trois pieces ensemble.
 
-Fig.
 2. Escalette double servant aussi à lire les desseins. Elle est composée de quatre pieces.
 	- A B, la piece coudée extérieure qui renferme celle qui a des entailles des deux côtés. Au-devant de cette piece sont deux regles fixées par les chevilles ou vis a & b; c'est entre ces deux dernieres pieces que le dessein doit être placé.
 
@@ -776,7 +790,7 @@ Fig.
 PLANCHE CXII,
 -------------
 
-[![Planche 112](Planche_112.jpeg)](Planche_112.jpeg)
+[![Planche 112](Planche_0112.jpeg)](Planche_0112.jpeg)
 
 signée u u u.
 
@@ -801,18 +815,18 @@ Fig.
 
 3. La broche représentée séparément & garnie du tuyau c d.
 
-4.
+4. 
 	- e f, tuyau de roseau, vuide.
 	- f g, le même tuyau chargé de soie; c'est en cet état qu'il prend le nom de canette.
 
-5.
+5. 
 	- h i, canon vuide; à côté est le même canon chargé de soie. 
 
 
 PLANCHE CXIII,
 --------------
 
-[![Planche 113](Planche_113.jpeg)](Planche_113.jpeg)
+[![Planche 113](Planche_0113.jpeg)](Planche_0113.jpeg)
 
 signée x x x.
 
@@ -842,7 +856,7 @@ Fig.
 PLANCHE CXIV,
 -------------
 
-[![Planche 114](Planche_114.jpeg)](Planche_114.jpeg)
+[![Planche 114](Planche_0114.jpeg)](Planche_0114.jpeg)
 
 signée y y y.
 
@@ -866,7 +880,6 @@ Fig.
 
 3. Le même tempia en perspective. Les mêmes lettres designent les mêmes objets.
 
-Fig.
 4. Tempia à vis vu en plan.
 
 5. Le même tempia vu en perspective.
@@ -883,7 +896,7 @@ Fig.
 PLANCHE CXV,
 ------------
 
-[![Planche 115](Planche_115.jpeg)](Planche_115.jpeg)
+[![Planche 115](Planche_0115.jpeg)](Planche_0115.jpeg)
 
 signée z z z. Différens outils & la maniere de tordre une nouvelle chaîne à la suite d'une piece qui est prête à finir.
 
@@ -902,7 +915,6 @@ Fig.
 	- A B, envergeure  de la piece qui finit.
 	- C D, envergeure de la nouvelle piece, l'une & l'autre par fils; les deux chaînes sont nouées ensemble, comme on voit au-dessous de E; l'opération de tordre se fait en joignant les fils d'une des chaînes à ceux de l'autre un à un; pour cela on prend avec deux doigts de la main gauche un fil de chacune des chaînes, on les éleve comme on voit en E en les tordant l'un sur l'autre, on les détache du noeud total des deux chaînes, alors achevant de tordre de la main droite, on les couche le long du fil de la nouvelle chaîne sur lequel on tord l'extrémité des deux fils.
 
-Fig.
 7.
 	- A, les fils tordus l'un sur l'autre par la main gauche.
 	- B, les mêmes fils tordus par la main droite sur le fil de la nouvelle piece.

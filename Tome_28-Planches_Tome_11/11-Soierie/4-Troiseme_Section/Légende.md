@@ -32,9 +32,11 @@ Figure
 	- M, pierre qui charge la caisse des marches.
 
 Derriere le carette on voit le cassin H, sur les poulies duquel passent les cordes H S T, qui toutes ensemble composent ce qu'on appelle le rame.
-	- T, bâton du rame. T V X, les crémailleres du  rame.
-	- X, treuil, par le moyen duquel on tend les cordes du rame, & par ce moyen on releve les maillons qui sont suspendus aux arcades qui terminent chaque corde du rame, les branches des arcades traversent la planche percée n n, descendent ensuite perpendiculairement pour s'attacher en o o aux mailles supérieures des maillons dans lesquels la chaîne ou le poil de l'étoffe est passée.
-	- 5 6, aiguilles de plomb suspendues à la maille inférieure de chaque maillon.
+
+- T, bâton du rame.
+- T V X, les crémailleres du  rame.
+- X, treuil, par le moyen duquel on tend les cordes du rame, & par ce moyen on releve les maillons qui sont suspendus aux arcades qui terminent chaque corde du rame, les branches des arcades traversent la planche percée n n, descendent ensuite perpendiculairement pour s'attacher en o o aux mailles supérieures des maillons dans lesquels la chaîne ou le poil de l'étoffe est passée.
+- 5 6, aiguilles de plomb suspendues à la maille inférieure de chaque maillon.
 
 Parallelement au rame est tendue horisontalement une corde Y Z AE, que l'on nomme arbalêtre de la gavassiniere du sample. Cette corde attachée fixément à un crochet Y, après avoir passé sur la poulie AE, descend verticalement le long de la muraille, & va s'attacher à un clou, ou bien elle est chargée d'un poids convenable pour la tenir suffisamment tendue, du point Z de l'arbalêtre, descend verticalement une autre corde en double Z R, que l'on nomme gavassine. Cette corde est attachée à une des extrémités du bâton R du sample R S, composé d'autant de cordes paralleles entre elles qu'il y en a au rame; quelques-unes de ces cordes étant séparées des autres par le lac qui les entoure, & ensuite tirée en-bas, abaissent les cordes du rame qui leur correspondent, & font élever au-dessus de la chaîne quelques-uns des fils qui la composent; on voit quelques-uns de ces fils levés près de l'ensouple, & c'est par-dessous ces fils levés que l'on passe les espolins chargés de la soie qui doit former la fleur de l'autre côté de l'étoffe.
 
@@ -49,41 +51,45 @@ PLANCHE LXI,
 signée p.
 
 Elévation latérale du métier pour fabriquer les étoffes brochées, ou celles où le fond fait la figure, si l'étoffe n'est point brochée.
-	- A B, un des deux piliers de devant.
-	- E F, un des deux piliers de derriere.
-	- C D, une des deux estazes. C & D, extrémités des clés qui assemblent les deux estazes.
-	- X Y, une des deux banques qui soutiennent l'ensouple de devant.
-	- T V, un des deux oreillons qui retiennent l'ensouple.
-	- K, extrémité de l'ensouple garnie du rochet denté.
-	- Z, chien ou valet pour fixer le cric.
-	- T, 9, 10, S, la chaîne ployée sur l'ensouple de derriere S.
-	- 9, 10, les envergures ou baguettes par lesquelles les fils de la chaîne sont encroisés.
-	- N, caisse des marches.
-	- M, pierre dont elle est chargée pour le rendre stable.
-	- N Q, les marches au-devant desquelles on voit une portion du sample.
-	- r r, deux pitons arrêtés au plancher.
-	- R R, bâton du sample.
-	- p p, portion des cordes montantes du sample que l'on a rompues pour laisser voir le corps de maillon o, o: 5, 5, qui auroit été caché par le sample.
+
+- A B, un des deux piliers de devant.
+- E F, un des deux piliers de derriere.
+- C D, une des deux estazes. C & D, extrémités des clés qui assemblent les deux estazes.
+- X Y, une des deux banques qui soutiennent l'ensouple de devant.
+- T V, un des deux oreillons qui retiennent l'ensouple.
+- K, extrémité de l'ensouple garnie du rochet denté.
+- Z, chien ou valet pour fixer le cric.
+- T, 9, 10, S, la chaîne ployée sur l'ensouple de derriere S.
+- 9, 10, les envergures ou baguettes par lesquelles les fils de la chaîne sont encroisés.
+- N, caisse des marches.
+- M, pierre dont elle est chargée pour le rendre stable.
+- N Q, les marches au-devant desquelles on voit une portion du sample.
+- r r, deux pitons arrêtés au plancher.
+- R R, bâton du sample.
+- p p, portion des cordes montantes du sample que l'on a rompues pour laisser voir le corps de maillon o, o: 5, 5, qui auroit été caché par le sample.
 
 Près l'ensouple de devant on voit le battant.
-	- y, la masse du battant.
-	- x, sa poignée; c'est entre ces deux pieces que le peigne est placé.
-	- x x, le haut d'une des deux lames du battant.
+
+- y, la masse du battant.
+- x, sa poignée; c'est entre ces deux pieces que le peigne est placé.
+- x x, le haut d'une des deux lames du battant.
 
 Au-dessus des estazes du métier & près le battant est placé le carette.
-	- m m, extrémité des brancards du carette.
-	- h h, montans d'un des chevalets.
-	- f f, cheville de fer qui traverse les fourches & les ailerons auxquels les lisses sont suspendues.
-	- 3, 3: 4, 4, lisses de liage au nombre de quatre.
-	- 1, 1: 2, 2, lisses de fond ou de piece au nombre de huit.
-	- 7, 7, traverses ou arbalêtres, dont les extrémités répondent aux extrémités extérieures des ailerons, comme on verra dans une des Planches suivantes:
-	- 8, 8, contrepoids pour remettre les lisses en situation après que l'action des marches les a élévées pour celles du fond, ou abaissées pour celles du liage, lorsqu'on leve le pié de dessus la marche.
+
+- m m, extrémité des brancards du carette.
+- h h, montans d'un des chevalets.
+- f f, cheville de fer qui traverse les fourches & les ailerons auxquels les lisses sont suspendues.
+- 3, 3: 4, 4, lisses de liage au nombre de quatre.
+- 1, 1: 2, 2, lisses de fond ou de piece au nombre de huit.
+- 7, 7, traverses ou arbalêtres, dont les extrémités répondent aux extrémités extérieures des ailerons, comme on verra dans une des Planches suivantes:
+- 8, 8, contrepoids pour remettre les lisses en situation après que l'action des marches les a élévées pour celles du fond, ou abaissées pour celles du liage, lorsqu'on leve le pié de dessus la marche.
 
 Près le carette est le cassin L H H L.
-	- L, L, extrémités des brancards du cassin L H.
-	- L H, les montans inclinés du cassin.
-	- I I, le rang inférieur des poulies du cassin; les autres rangs sont cachés par la queue du rame projettée en raccourci sur le cassin.
-	- T T, bâton du rame auquel les cordes qui le composent sont attachées par un noeud qu'on trouvera dans une des Planches suivantes.
+
+- L, L, extrémités des brancards du cassin L H.
+- L H, les montans inclinés du cassin.
+- I I, le rang inférieur des poulies du cassin; les autres rangs sont cachés par la queue du rame projettée en raccourci sur le cassin.
+- T T, bâton du rame auquel les cordes qui le composent sont attachées par un noeud qu'on trouvera dans une des Planches suivantes.
 
 Au-dessous du cassin est suspendue la planche percée n n, que les branches des arcades traversent; à l'extrémité inférieure o o des branches des arcades, sont attachées les mailles supérieures des maillons, dans lesquels la chaîne T S est passée; à la partie inférieure de chaque maillon est attachée une des aiguilles de plomb 5 6, 5 6, qui servent à abaisser les fils de la chaîne lorsqu'on lâche le lac qui les avoit tenu élevés.
 
@@ -97,7 +103,8 @@ signée q.
 
 Elévation géométrale du devant du métier pour fabriquer les étoffes brochées, ou celles dont le fond fait la figure.
 
-Fig. 1. Elévation du devant du métier.
+Fig.
+1. Elévation du devant du métier.
 	- A B, a b, les piliers de devant.
 	- L K, l'ensouple de devant.
 	- l k, l'étoffe fabriquée enroulée sur l'ensouple.
@@ -114,18 +121,21 @@ Fig. 1. Elévation du devant du métier.
 	- Q q, extrémités antérieures des marches sur lesquelles l'ouvrier pose le pié.
 
 Derriere le carette est le cassin, & derriere les lisses le corps des maillons.
-	- H, le haut du cassin garni de huit rangs de poulies; on voit l'extrémité des broches qui les traversent.
-	- I S T, le rang inférieur des cordes du rame.
-	- T, le bâton du rame.
-	- V, second bâton sur lequel passent les cordes nommées crémailleres du rame, qui vont s'enrouler sur le treuil X.
+
+- H, le haut du cassin garni de huit rangs de poulies; on voit l'extrémité des broches qui les traversent.
+- I S T, le rang inférieur des cordes du rame.
+- T, le bâton du rame.
+- V, second bâton sur lequel passent les cordes nommées crémailleres du rame, qui vont s'enrouler sur le treuil X.
 
 Au-dessous des poulies du cassin sont les arcades, dont les branches en s'écartant les unes des autres  vont traverser la planche percée n n; les branches descendent ensuite perpendiculairement jusqu'en o o, où elles sont liées aux mailles supérieures des maillons dans lesquels la chaîne est passée.
-	- 5, 6: 5, 6, aiguilles de plomb attachées à la maille inférieure des maillons.
+
+- 5, 6: 5, 6, aiguilles de plomb attachées à la maille inférieure des maillons.
 
 Au-devant du pilier A B du métier, on voit la pince ou pié-de-biche 10, 11, 12 qui sert à l'ouvrier à tourner l'ensouple de devant à mesure que l'ouvrage avance.
-	- 12, extrémité du pié-de-biche qui entre dans un des trous k de l'ensouple.
-	- 11, boule qui empêche le pié-de-biche d'entrer trop avant.
-	- 10, partie formée en pié-de-biche.
+
+- 12, extrémité du pié-de-biche qui entre dans un des trous k de l'ensouple.
+- 11, boule qui empêche le pié-de-biche d'entrer trop avant.
+- 10, partie formée en pié-de-biche.
 
 2. Dessein de cinq couleurs différentes sur du papier de 8 en 12, dont la lecture est expliquée à l'article Velours dans l'Encyclopédie; chaque ligne verticale ou plutôt un des espaces qui les séparent, représente un des fils de la chaîne; de même chaque espace horisontal représente un coup de navette.
 	- A B C D, premiere division du dessein.
@@ -143,7 +153,8 @@ signée r.
 
 Elévation & développement du cassin.
 
-Fig. 1. Le chassis du cassin dégarni de toutes les pieces qui en dépendent & vu en perspective.
+Fig.
+1. Le chassis du cassin dégarni de toutes les pieces qui en dépendent & vu en perspective.
 	- A B, a b, les longs côtés du cassin.
 	- C c, D d, les deux traverses; chacune de ces traverses a une feuillure pour recevoir les lames qui servent à espacer les poulies du cassin.
 	- B b, les tenons coupés obliquement qui assemblent le chassis sur le brancard.
@@ -175,7 +186,7 @@ Fig. 1. Le chassis du cassin dégarni de toutes les pieces qui en dépendent & v
 	- e e, f f, deux autres rangs de poulies.
 	- g g, autre rang de patenôtres, placé entre les deux rangs suivans de poulies, ainsi de suite jusqu'au bas du cassin. Il faut observer que les patenôtres sont un peu plus épaisses que les poulies, pour que ces dernieres roulent facilement entre les lames 1, 2, 3, 4, 5, 6, 7, 8, & que toutes les patenôtres du même rang sont enfilées d'un fil de fer, & les poulies par une baguette de bois; il y a des cassins de mille six cens poulies & même de deux mille quatre cens.
 
-Fig. 7. Fragment d'une des lames vue en plan & dans sa grandeur effective aussi-bien que les poulies.
+7. Fragment d'une des lames vue en plan & dans sa grandeur effective aussi-bien que les poulies.
 	- A, patenôtre.
 	- B, C, poulies.
 	- D, patenôtres.
@@ -208,19 +219,16 @@ Fig.
 	- R R, bâton du sample auquel les cordes sont attachées par un noeud qu'on trouvera dans une des Planches suivantes.
 
 Après que les cordes T S H G ou T s H g du rame ont passé sur les poulies H du cassin, on y suspend les arcades p 1 G, p 2 G, p 3 G, p 4 G qui traversent la Planche percée E e F f, cotée n n dans la Planche LX; aux extrémités inférieures p p p p des arcades, on suspend les mailles supérieures p n, p n, p n, p n des maillons n, n, n, n que les fils a, c, e, g de la chaîne traversent; & à la partie inférieure des maillons de verre n, n, n, n, on suspend par une seconde maille n 7, n 7 les aiguilles de plomb 7, 8: 7, 8: qui servent à abaisser les maillons; lorsque l'action de la main M sur les cordes du sample vient à cesser, c'est l'état où sont représentés les quatre autres maillons m, m, m, m qui sont abaissés par les aiguilles 5, 6: 5, 6, qui tirent en même tems les mailles supérieures m o, m o, m o, m o, qui tirent aussi en en-bas les quatre branches d'arcades o g, o g, o g, o g, ce qui fait relever la seconde corde de rame, & l'extrémité supérieure s de la seconde corde de sample s R.
-	- A A, partie de l'ensouple de devant sur laquelle l'ouvrage fait s'enveloppe.
-	- B, partie de l'ensouple de derriere sur laquelle la chaîne est ployée.
-	- C D, les envergures qui tiennent les fils de la chaîne encroisés. On a seulement représenté huit fils de la chaîne pour éviter la confusion, & de ces huit fils les quatre qui sont levés & qui levent à-la-fois, sont les fils semblables des quatre répétitions du dessein dans la largeur de l'étoffe; & c'est à faire répéter le même dessein plusieurs fois dans la largeur de l'étoffe que les arcades sont particulierement destinées.
+
+- A A, partie de l'ensouple de devant sur laquelle l'ouvrage fait s'enveloppe.
+- B, partie de l'ensouple de derriere sur laquelle la chaîne est ployée.
+- C D, les envergures qui tiennent les fils de la chaîne encroisés. On a seulement représenté huit fils de la chaîne pour éviter la confusion, & de ces huit fils les quatre qui sont levés & qui levent à-la-fois, sont les fils semblables des quatre répétitions du dessein dans la largeur de l'étoffe; & c'est à faire répéter le même dessein plusieurs fois dans la largeur de l'étoffe que les arcades sont particulierement destinées.
 
 2. Partie de l'étoffe brochée vue du côté de l'envers & au miscroscope. Dans cette figure on n'a point détaillé le fond de l'étoffe pour éviter la confusion; on a seulement représenté les soies des espolins qui paroissent à l'envers de l'étoffe, & qui  semblent de ce côté n'avoir aucune adhérence avec elle; les fils levés le sont par l'action de la main sur les cordes de sample qui leur correspondent, comme on voit en M, fig. 1; les fils sont numérotés de suite, comme on voit dans la figure.
-
-- A, Espolin garni de soie, qui doit passer sous les fils 38, 39, 40, 41, 42, 43. Cette soie doit paroître du côté de l'endroit.
-
-- B, Espolin garni aussi de soie d'une couleur différente, qui doit passer sous les fils levés 23, 24, 25, 27, 28, 29, 31, 32, 33, pour former du côté de l'endroit trois apparences de la même couleur.
-
-- C, Espolins passés en partie sous les fils 13, 14: 16, 17, 18, & former du côté de l'endroit deux apparences de la couleur dont il est garni.
-
-- D, autre espolin qui a entierement passé sous les fils levés 3, 4, 5: 7, 8, pour paroître en deux endroits de l'autre côté de l'étoffe.
+	- A, Espolin garni de soie, qui doit passer sous les fils 38, 39, 40, 41, 42, 43. Cette soie doit paroître du côté de l'endroit.
+	- B, Espolin garni aussi de soie d'une couleur différente, qui doit passer sous les fils levés 23, 24, 25, 27, 28, 29, 31, 32, 33, pour former du côté de l'endroit trois apparences de la même couleur.
+	- C, Espolins passés en partie sous les fils 13, 14: 16, 17, 18, & former du côté de l'endroit deux apparences de la couleur dont il est garni.
+	- D, autre espolin qui a entierement passé sous les fils levés 3, 4, 5: 7, 8, pour paroître en deux endroits de l'autre côté de l'étoffe.
 
 Après que tous les espolins sont passés, on lâche les cordes du sample, tous les fils de la chaîne se remettent de niveau; alors faisant agir une des lisses de fond, on passe un ou deux coups de grandes navettes qui traversent l'étoffe d'une lisiere à l'autre, ensuite on tire le lac suivant, qui fait lever de nouveaux fils, sous lesquels on passe de même les différens espolins qui se trouvent dans la largeur de l'étoffe.
 
@@ -255,7 +263,6 @@ P Q, P R, Gavassine, à chacune des extrémités de laquelle répond un lac; le 
 
 La gavassine I S T, I S V correspond aussi à deux lacs. Le premier t T t renferme les cordes 1, 6, 11, 15, 16, 18; & le second les cordes 4, 6, 7, 9, 14, 15, 18, 19 & 20. La gavassine suivante K X Y, K X Z renferme dans le premier lac y Y y, la 2, 4, 8, 10, 11, 15, 17 & 19e corde du sample, & dans le second z Z z, la 1, 3, 9, 11, 13, 17 & 20e corde, ainsi de suite prenant pour chaque lac les cordes indiquées par le dessein qui se répete autant de fois dans la largeur de l'étoffe, qu'il y a de branches aux arcades.
 
-Fig.
 4. & suivantes. Formation du dernier lac de la figure précédente.
 	- Z z z Z, le lac à l'angloise, dont les boucles renferment la 1, 3, 9, 11, 13, 17 & 20e corde du sample; les boucles Z Z étant égalisées de longueur.
 
@@ -293,7 +300,6 @@ Fig.
 	- n, l, trous pour recevoir l'axe des quatre roulettes supérieures.
 	- m, trou pour recevoir l'axe des deux roulettes inférieures.
 
-Fig.
 3. Le levier & le coulant vus du côté de la pointe des fourches.
 	- R, fourche inférieure qui passe antérieurement à toutes les cordes du sample.
 	- S, fourche supérieure qui passe postérieurement aux cordes du sample que le lac a séparé de la totalité de celles qui le composent; c'est pour faciliter l'introduction de la fourche supérieure S, derriere les cordes comprises dans le lac, que cette fourche est placée plus près du bord de la palette du levier; ensorte qu'une corde verticale peut passer entre ces deux fourches sans toucher à l'une ni à l'autre: c'est dans cet état que la machine est représentée dans la Planche XCII.
@@ -411,7 +417,7 @@ Fig.
 
 Nota. Quand on a passé une vingtaine de coups de navette pour lé taffetas, on marche la premiere marche du liage, & on passe un coup de navette d'organsin, vingt autres coups après, on passe la même navette sur la seconde marche.
 
-Fig. 2. Taffetas façonnés-doubletés: on entend par taffetas façonné-doubleté ceux où il y a deux couleurs dans la fleur; elles se font sur le même lac par le moyen de deux corps de maillons. Le poil est ourdi en fils doubles, un fil d'une couleur dessus & un fil de l'autre couleur dessous, ce qui fait cinquante portées doubles de poil. Pour ce qui concerne les chaînes, remisses & peignes, voyez à l'article des taffetas façonnés-simpletés qui précede. Le dessein est fait sur du papier de huit en dix, le huit en largeur & le dix en hauteur, l'endroit se fait de ssus, & on lit ce qui est peint sur le dessein.
+2. Taffetas façonnés-doubletés: on entend par taffetas façonné-doubleté ceux où il y a deux couleurs dans la fleur; elles se font sur le même lac par le moyen de deux corps de maillons. Le poil est ourdi en fils doubles, un fil d'une couleur dessus & un fil de l'autre couleur dessous, ce qui fait cinquante portées doubles de poil. Pour ce qui concerne les chaînes, remisses & peignes, voyez à l'article des taffetas façonnés-simpletés qui précede. Le dessein est fait sur du papier de huit en dix, le huit en largeur & le dix en hauteur, l'endroit se fait de ssus, & on lit ce qui est peint sur le dessein.
 
 
 PLANCHE LXXI,
@@ -428,9 +434,7 @@ Dans le remisse de quatre lisses pour le rabat, la chaîne est passée sous la m
 Dans le remisse de quatre lisses pour le liage, les fils de la chaîne qui y sont passés le sont aussi, comme dans la fig. 2.
 
 - a Marche sur laquelle on passe le premier coup de navette à deux bouts.
-
 - b Marche sur laquelle on passe le second coup, ou coup de liseré à quatre bouts.
-
 - c Marche sur laquelle on passe le troisieme coup en plein aussi à quatre bouts de trame dans la navette.
 
 Pour la composition de cette étoffe, voyez l'article des gros de Tours.
@@ -450,27 +454,16 @@ Dans le remisse de quatre lisses pour le rabat les fils sont passés, comme dans
 Dans le remisse des quatre lisses pour le liage, les fils qui y sont passés le sont comme dans la fig. 2. de la même Planche.
 
 - a Premiere marche, premier coup de plein.
-
 - b Deuxieme marche, premier coup de liseré.
-
 - c Troisieme marche, second coup de plein.
-
 - d Quatrieme marche, second coup de liseré.
-
 - e Cinquieme marche, troisieme coup de plein.
-
 - f Sixieme marche, troisieme coup de liseré.
-
 - g Septieme marche, quatrieme coup de plein.
-
 - h Huitieme marche, quatrieme coup de liseré. Les marchettes ou marches du pié gauche.
-
 - i Premiere marchette, après le premier coup de liseré b.
-
 - k Seconde marchette, après le second coup de liseré d.
-
 - l Troisieme marchette, après le troisieme coup de liseré f.
-
 - m Quatrieme marchette, après le quatrieme coup de liseré h.
 
 Les gros de Tours liserés & brochés avec un liage de 4 le 5 peuvent se faire du poids de deux onces & demie jusqu'à six onces & plus. Sans être brochés; on en fait de 40, 45, 50, 60, 80, 90, 100, 120 portées, suivant le corps que l'on veut donner à l'étoffe, & ils sont tous très-bons dans leurs especes, mais de différens prix. Largeur, onze vingt-quatriemes d'aune; chaîne quarante-cinq portées doubles, organsin parfait tirage pesant deux onces l'aune; trame pour le coup de fond, deuxieme sorte, pesant une once six deniers; trame pour le coup de liseré, premiere sorte, dix-huit deniers; sans les brochés qui sont arbitraires, quatre onces en tout. Remisses de quatre lisses de onze portées un quart chacune pour lever la chaîne; remisse de quatre lisses de onze portées un quart chacune pour rabatre la chaîne; remisse de quatre lisses de deux portées un quart chacune pour le liage; peigne de vingt-deux portées & demie ou neuf cens dents, à quatre fils par dent; fil & broché en dorure, mettez un peigne de dix-huit portées ou sept cens vingt dents & cinq fils par dent.
@@ -532,35 +525,20 @@ Dans le remisse de quatre lisses pour les deux chaînes, les fils qui les compos
 Dans le remisse de huit lisses pour le poil qui fait le satin, les fils sont passés sur la maille, comme le fil A C sur la maille B fig. 3. Planche LXVIII.
 
 - a, coup de tire.
-
 - b, coup de plein.
-
 - c, coup de tire.
-
 - d, coup de plein.
-
 - e, coup de tire.
-
 - f, coup de plein.
-
 - g, coup de tire.
-
 - h, coup de plein.
-
 - i, coup de tire.
-
 - k, coup de plein.
-
 - l, coup de tire.
-
 - m, coup de plein.
-
 - n, coup de tire.
-
 - o, coup de plein.
-
 - p, coup de tire.
-
 - q, coup de plein, & ainsi de suite alternativement.
 
 
@@ -584,11 +562,8 @@ Dans le remisse de quatre lisses pour le taffetas, les fils de la chaine indiqu�
 Dans le remisse de huit lisses pour le satin & la lustrine, les fils du poil ou seconde chaîne indiqués par des lignes ponctuées, sont passés sur la maille comme dans la fig. 3. de la Planche LXVIII.
 
 - a, premier lac.
-
 - b, second lac.
-
 - c, troisieme lac.
-
 - d, quatrieme lac.
 
 Peigne de vingt portées ou huit cens dents, huit fils de satin & quatre fils de taffetas dans chaque dent.
@@ -785,35 +760,20 @@ Dans le remisse suivant, composé de quatre lisses, les fils de la chaîne sont 
 Le remisse suivant est destiné pour le liage. Quand on aura remis neuf fils de la piece, on passera le dixieme  sur la premiere lisse du liage, le vingtieme sur la seconde lisse, le trentieme sur la troisieme lisse, le quarantieme sur la quatrieme lisse, le cinquantieme sur la premiere lisse, ainsi de suite jusqu'à la fin de la piece.
 
 - a, premier lac de lustrine.
-
 - b, second lac de persienne.
-
 - c, troisieme lac de liseré.
-
 - d, premiere marchette.
-
 - e, comme a.
-
 - f, comme b.
-
 - g, comme c.
-
 - h, seconde marchette.
-
 - i, comme a.
-
 - k, comme b.
-
 - l, comme c.
-
 - m, troisieme marchette.
-
 - n, comme a.
-
 - o, comme b.
-
 - p, comme c.
-
 - q, quatrieme marchette.
 
 Fin du course des marches.
@@ -867,27 +827,16 @@ La chaîne pour la piece contient vingt portées simples pour le poil, le liage 
 La chaîne, le poil & la trame de cette étoffe sont les mêmes que pour le raz-de-Sicile courant de la Planche précédente. Le nombre & l'espece des lisses sont aussi les mêmes, ainsi que la maniere de remettre la chaîne & le poil, mais le course des marches qui sont au nombre de douze est différent.
 
 - a, premiere navette, coup de fond.
-
 - b, seconde navette, le lac du raz-de-Sicile étant tiré.
-
 - c, troisieme navette, le lac du liseré étant tiré.
-
 - d, comme en a.
-
 - e, comme en b.
-
 - f, comme en c.
-
 - g, comme en a.
-
 - h, comme en b.
-
 - i, comme en c.
-
 - k, comme en a.
-
 - l, comme en b.
-
 - m, comme en c.
 
 
@@ -942,19 +891,12 @@ Dans le premier des deux remisses suivans de deux lisses pour le poil, les fils 
 Dans le second remisse de deux lisses pour le poil, les fils sont passés sous la maille comme le fil A C sous la maille B de la fig. 2. de la même Planche.
 
 - a, marche sur laquelle on tire le premier lac, suivi de deux coups de navette.
-
 - b, marche sur laquelle on tire le deuxieme lac, suivi d'un seul coup de navette.
-
 - c, comme a.
-
 - d, comme b.
-
 - e, comme a.
-
 - f, comme b.
-
 - g, comme a.
-
 - h, comme b, ce qui termine la course des marches.
 
 Peigne de trente portées ou douze cens dents à huit fils de piece & deux fils de poils par dent. 
@@ -994,33 +936,19 @@ Dans le second remisse de cinq lisses pour le rabat, les mêmes fils sont passé
 Dans le remisse suivant, aussi de cinq lisses, destinées pour le liage, les sixiemes fils sont passés sous la maille.
 
 - a, premier lac de damas.
-
 - b, deuxieme lac de liseré.
-
 - c, premiere marchette pour le broché.
-
 - d, comme en a.
-
 - e, comme en b.
-
 - f, comme en c.
-
 - g, comme en a.
-
 - h, comme en b.
-
 - i, comme en c.
-
 - k, comme en a.
-
 - l, comme en b.
-
 - m, comme en c.
-
 - n, comme en a.
-
 - o, comme en b.
-
 - p, comme en c.
 
 Ce qui termine la course des marches à la fin de chacune des divisions, de laquelle on abaisse du pié gauche une des marches du liage dans l'ordre où elles sont chiffrées.
@@ -1031,7 +959,7 @@ PLANCHE LXXXVII,
 
 [![Planche 87](Planche_87.jpeg)](Planche_87.jpeg)
 
-signée s s Florentine damassée avec un liage.
+signée s s. Florentine damassée avec un liage.
 
 Largeur, onze vingt-quatriemes d'aune.
 

@@ -21,12 +21,13 @@ Fig.
 3. La cantre garnie de rochets. Bas de la Planche.
 
 Plan du dessus de l'ourdissoir, du dessus du banc de l'ouvriere & de la cantre.
-	- A, manivelle de la poulie du banc G H que l'on éloigne ou qu'on approche de l'ourdissoir pour tendre la corde sans fin qui passe aussi sur la poulie O de l'ourdissoir.
-	- I K, le dessus de la banque ou sellette de la cantre.
-	- C D E F, les deux croisées du dessus du bâtis de l'ourdissoir.
-	- B, pivot supérieur de l'ourdissoir formé par huit montans a, b, c, d, e, f, g; c'est autour du tourillon ou pivot supérieur B que s'enroule la corde B 2, à laquelle le plot P p est suspendu.
-	- i k, chevilles fixées à une traverse sur lesquelles les fils de la portée sont encroisés un à un.
-	- m, cheville sur laquelle les portées sont renvoyées.
+
+- A, manivelle de la poulie du banc G H que l'on éloigne ou qu'on approche de l'ourdissoir pour tendre la corde sans fin qui passe aussi sur la poulie O de l'ourdissoir.
+- I K, le dessus de la banque ou sellette de la cantre.
+- C D E F, les deux croisées du dessus du bâtis de l'ourdissoir.
+- B, pivot supérieur de l'ourdissoir formé par huit montans a, b, c, d, e, f, g; c'est autour du tourillon ou pivot supérieur B que s'enroule la corde B 2, à laquelle le plot P p est suspendu.
+- i k, chevilles fixées à une traverse sur lesquelles les fils de la portée sont encroisés un à un.
+- m, cheville sur laquelle les portées sont renvoyées.
 
 
 PLANCHE XXIV,
@@ -50,7 +51,7 @@ Fig.
 	- F, F F, quatrieme pilier ou pilier du plot; il differe des autres en ce qu'il est fendu du haut en bas, chaque partie entre dans une des mortaises du plot.
 	- a a, b b, d d, e e, f f, h h, six des huits montans ou chandelles de la cage tournante de l'ourdissoir; elles sont supportées par trois étages de traverses qui passent de part en part à travers l'arbre central B, B B autour du pivot supérieur duquel s'enroule la corde à laquelle le plot P p est suspendu. Entre quelques-uns des montans sont placées les trois traverses mobiles i k, l, vers le  haut, & la traverse i i, k k vers le bas. Ces traverses peuvent s'élever & s'abaisser à volonté n'étant assujetties que par le frottement des fourchons de leurs extrémités sur les arêtes internes des chandelles entre lesquelles elles sont placées; leur distance détermine la longueur de l'ourdissage ou de la chaîne de l'étoffe.
 
-Fig. 4. Le plot dégarni des pieces qui en dépendent.
+4. Le plot dégarni des pieces qui en dépendent.
 	- P p, le plot.
 	- P, la partie qui embrasse le pilier fendu.
 	- 6, est le trou où entre le piton de la crémaillere.
@@ -118,6 +119,7 @@ signée D D.
 Développemens du plot à trois tringles & de quelques parties de la cantre contenue dans la Planche précédente.
 
 Fig.
+
 3. Le plot à trois tringles en perspective vu du côté P des bobines.
 	- O O, partie du pilier de l'ourdissoir le long duquel le plot monte & descend.
 	- a b, les deux bobines.
@@ -150,7 +152,6 @@ Fig.
 	- d c, broche tirée pour replacer un des rochets de la premiere division e f.
 	- e f, broches poussées pour placer des rochets dans la seconde division de la cantre. 
 
-Fig.
 8. Partie antérieure de la traverse de devant avec une partie de la regle qui ferme les trous par lesquels les broches sont entrées.
 	- 1, 2, 3, 4, 5, 6, 7, 8, quel-ques-uns des trous à découvert.
 
@@ -169,9 +170,12 @@ Fig.
 
 2. Ourdisseuse qui oppose la main aux montans de l'ourdissoir pour retarder son mouvement, & procurer à la chaîne une tension convenable. Bas de la Planche.
 
-3, 4 & 5. Maniere de lier les portées entre les deux chevilles de la seconde traverse supérieure de l'ourdissoir avant de relever la chaîne. On introduit par b un cordon de soie entre une des deux chevilles & la croisure; on ramene le cordon par a entre la même croisure & l'autre cheville, & on fait un noeud c. On ramene ensuite en devant & par-dessus la boucle a fig. 3, dans laquelle on passe en-dessous le noeud c, comme on voit en e d, fig. 4. On fait ensuite plusieurs tours en-dessous avec le reste du cordon double, & on passe le noeud c dans le dernier tour, comme on voit fig. 5.
+3. &
+4. &
+5. Maniere de lier les portées entre les deux chevilles de la seconde traverse supérieure de l'ourdissoir avant de relever la chaîne. On introduit par b un cordon de soie entre une des deux chevilles & la croisure; on ramene le cordon par a entre la même croisure & l'autre cheville, & on fait un noeud c. On ramene ensuite en devant & par-dessus la boucle a fig. 3, dans laquelle on passe en-dessous le noeud c, comme on voit en e d, fig. 4. On fait ensuite plusieurs tours  en-dessous avec le reste du cordon double, & on passe le noeud c dans le dernier tour, comme on voit fig. 5.
 
-6. La lanterne & son support vus en élévation géométrale du côté de l'ourdissoir. A & B, les patins.
+6. La lanterne & son support vus en élévation géométrale du côté de l'ourdissoir.
+	- A & B, les patins.
 	- A C, B D, les montans.
 	- E F, entretoise affermie avec des clés.
 	- a a, b b, les deux tourtes de la lanterne assemblés l'un à l'autre par l'axe c d & par plusieurs fuseaux.
@@ -210,7 +214,6 @@ Fig.
 	- C, piece supérieure.
 	- a, rainure.
 
-Fig.
 5. Bobine de bois A B fendue en-dessous pour être placée sur les dents du rateau & recevoir la chaîne, que l'on distribue ensuite par portées ou demi-portées entre les dents du rateau.
 	- C D, ficelle ou arbalêtre.
 	- E F, baguette que l'on passe dans les portées pour conserver les encroix des portées. Cette baguette sert aussi à retenir la chaîne dans la rainure de l'ensouple.
@@ -276,21 +279,22 @@ PLANCHE XXXI,
 signée H H.
 
 Vue perspective du métier pour fabriquer les étoffes unies, comme taffetas, serge & satin.
-	- A B, a b, les piliers de devant du métier, entre lesquels est le banc de l'ouvrier.
-	- E F, e f, les piliers de derriere.
-	- C D, c d, les  estazes.
-	- G H, g h, les clés.
-	- K L, l'ensouple de devant sur laquelle l'étoffe s'enroule à mesure qu'elle est fabriquée.
-	- S s, l'ensouple de derriere, près de laquelle on voit l'envergure m n, elle est portée par des goussets.
-	- R r, poids qui tendent les cordes R S, r s, s s. Ces cordes font plusieurs tours. L'ensouple de devant est portée par les banques X Y, x y.
-	- T V, t u, les oreillons.
-	- Z z, le chien qui engrene dans le rochet dont l'ensouple est armée.
-	- x y, le battant.
-	- a a, b b, c c, d d, la carette qui contient autant d'aîlerons qu'il y a de lisses 1 1 1 1, 2 2, 3 3 3, 4 4 suspendues chacune par deux cordes aux aîlerons, comme on voit la premiere au point 5. De l'autre extrémitée 6 de chaque aîleron, descend une corde 6, 7, qui s'attache à la contremarche 7, 10, les contremarches & quarquerons sont soutenus par un chassis t i l, & mobiles sur une cheville de fer.
-	- N, boëte des marches.
-	- M, pierre dont elle est chargée.
-	- P Q, P q, les marches auxquelles les contre-marches & les quarquerons sont liés par des ficelles 8, 9.
-	- O P, chevilles qui sert de centre de mouvement aux marches.
+
+- A B, a b, les piliers de devant du métier, entre lesquels est le banc de l'ouvrier.
+- E F, e f, les piliers de derriere.
+- C D, c d, les  estazes.
+- G H, g h, les clés.
+- K L, l'ensouple de devant sur laquelle l'étoffe s'enroule à mesure qu'elle est fabriquée.
+- S s, l'ensouple de derriere, près de laquelle on voit l'envergure m n, elle est portée par des goussets.
+- R r, poids qui tendent les cordes R S, r s, s s. Ces cordes font plusieurs tours. L'ensouple de devant est portée par les banques X Y, x y.
+- T V, t u, les oreillons.
+- Z z, le chien qui engrene dans le rochet dont l'ensouple est armée.
+- x y, le battant.
+- a a, b b, c c, d d, la carette qui contient autant d'aîlerons qu'il y a de lisses 1 1 1 1, 2 2, 3 3 3, 4 4 suspendues chacune par deux cordes aux aîlerons, comme on voit la premiere au point 5. De l'autre extrémitée 6 de chaque aîleron, descend une corde 6, 7, qui s'attache à la contremarche 7, 10, les contremarches & quarquerons sont soutenus par un chassis t i l, & mobiles sur une cheville de fer.
+- N, boëte des marches.
+- M, pierre dont elle est chargée.
+- P Q, P q, les marches auxquelles les contre-marches & les quarquerons sont liés par des ficelles 8, 9.
+- O P, chevilles qui sert de centre de mouvement aux marches.
 
 
 PLANCHE XXXII,
@@ -302,24 +306,24 @@ signée II.
 
 Elévation géométrale de la partie latérale du métier pour fabriquer les étoffes unies, comme taffetas, satin & serge.
 
-	- A B, un des piliers de devant.
-	- E F, pilier de derriere.
-	- C D, estaze.
-	- K, ensouple de devant.
-	- Z z, le chien.
-	- S, ensouple de derriere.
-	- R2 S R, corde & poids pour tendre la chaîne.
-	- n, envergure.
-	- N, caisse des marches.
-	- M, pierre dont elle est chargée.
-	- O, charniere des marches.
-	- P Q, P q, les marches.
-	- a a, b b, patins de la carette.
-	- c c, d d, cheville sur laquelle se meuvent les aîlerons 1, 1: 2, 2: 3, 3: 4, 4: les lisses.
-	- k l, patin du chassis des contremarches & quarquerons. 
-	- 0, 10, cheville sur laquelle ils sont mobiles.
-	- x y, le battant.
-	- x x, sommet des lames du battant.
+- A B, un des piliers de devant.
+- E F, pilier de derriere.
+- C D, estaze.
+- K, ensouple de devant.
+- Z z, le chien.
+- S, ensouple de derriere.
+- R2 S R, corde & poids pour tendre la chaîne.
+- n, envergure.
+- N, caisse des marches.
+- M, pierre dont elle est chargée.
+- O, charniere des marches.
+- P Q, P q, les marches.
+- a a, b b, patins de la carette.
+- c c, d d, cheville sur laquelle se meuvent les aîlerons 1, 1: 2, 2: 3, 3: 4, 4: les lisses.
+- k l, patin du chassis des contremarches & quarquerons. 
+- 0, 10, cheville sur laquelle ils sont mobiles.
+- x y, le battant.
+- x x, sommet des lames du battant.
 
 
 PLANCHE XXXIII,
@@ -330,23 +334,24 @@ PLANCHE XXXIII,
 signée K K.
 
 Elévation géométrale de la partie antérieure du métier pour fabriquer les étoffes unies, comme taffetas, serge, satin.
-	- A B, a b, les piliers de devant.
-	- o o, cheville ou broche des marches.
-	- Q, q, les marches.
-	- X, x, les banques.
-	- B B, b b, le banc de l'ouvrier.
-	- K L, ensouple de devant.
-	- Z, le chien.
-	- G H, clé de devant.
-	- x y, x x, y y, le battant.
-	- 12, 13, garot servant à bander les lames du battant.
-	- A A, a a, patin de la carette.
-	- d d, sommet de la carette.
-	- 5, 6, aîleron.
-	- 6, 7, corde qui descend aux contremarches 7, 10.
-	- 10, 8, quarquerons auxquels les marches sont suspendues par les cordes.
-	- 9, les quarquerons le sont aux lisserons d'en-bas des lisses par les cordes 8.
-	- 3, 3: 3, 3. 4, 4: 4, 4, les lisses suspendues à l'extrémité 5 des aîlerons par des cordes.
+
+- A B, a b, les piliers de devant.
+- o o, cheville ou broche des marches.
+- Q, q, les marches.
+- X, x, les banques.
+- B B, b b, le banc de l'ouvrier.
+- K L, ensouple de devant.
+- Z, le chien.
+- G H, clé de devant.
+- x y, x x, y y, le battant.
+- 12, 13, garot servant à bander les lames du battant.
+- A A, a a, patin de la carette.
+- d d, sommet de la carette.
+- 5, 6, aîleron.
+- 6, 7, corde qui descend aux contremarches 7, 10.
+- 10, 8, quarquerons auxquels les marches sont suspendues par les cordes.
+- 9, les quarquerons le sont aux lisserons d'en-bas des lisses par les cordes 8.
+- 3, 3: 3, 3. 4, 4: 4, 4, les lisses suspendues à l'extrémité 5 des aîlerons par des cordes.
 
 
 PLANCHE XXXIV,
@@ -373,7 +378,6 @@ Fig.
 	- t, u, les acocats des lames par lesquels le battant est suspendu au bâton.
 	- 12, 13, bâton ou garot servant à tordre la corde qui serre les deux lames.
 
-Fig.
 5. Portion supérieure d'une des lames vue en profil.
 	- X X, le haut de la lame.
 	- S T, acocat.
@@ -389,16 +393,25 @@ Fig.
 	- Y Y, la masse du battant. A & B, portion des lames.
 	- C D, rainure.
 
-SOIERIE. | SECONDE SECTION | PLANCHE XXXV, signée M M.
-illustrative imagePLANCHE XXXV, signée M M. Développement de la carette & du porte-lisse.
-Fig. 1. Chassis de la carette.
+
+PLANCHE XXXV,
+-------------
+
+[![Planche 35](Planche_35.jpeg)](Planche_35.jpeg)
+
+signée M M. Développement de la carette & du porte-lisse.
+
+Fig.
+1. Chassis de la carette.
 	- A a, B b, les patins.
 	- G H, les traverses.
 	- C D, les entailles qui reçoivent les ailerons.
-	- D E, cheville ou broche qui sert de pivot aux aîlerons. 5, 6, aileron séparé.
+	- D E, cheville ou broche qui sert de pivot aux aîlerons.
+	- 5, 6, aileron séparé.
 	- F, trou qui est traversé par la broche.
 
-2. Elévation du montant de la carette. A & B, emplacement des patins.
+2. Elévation du montant de la carette.
+	- A & B, emplacement des patins.
 	- D C, entailles pour recevoir les ailerons; il y a des carettes plus larges pour recevoir un plus grand nombre d'ailerons, qui sont toujours en même nombre que les marches.
 
 3. Autre sorte de carette.
@@ -435,7 +448,7 @@ PLANCHE XXXVI,
 signée N N. Développement des ensouples du métier pour fabriquer les étoffes, & construction du banc de l'ouvrier.
 
 Fig.
-	1. Ensouple du derriere du métier dessinée, ainsi que toutes les figures de cette Planche, sur une échelle double de celle du métier; on a rompu les ensouples dans le milieu, leur longueur n'ayant pas pu tenir dans la largeur de la Planche.
+1. Ensouple du derriere du métier dessinée, ainsi que toutes les figures de cette Planche, sur une échelle double de celle du métier; on a rompu les ensouples dans le milieu, leur longueur n'ayant pas pu tenir dans la largeur de la Planche.
 	- S s, les tourillons.
 	- P Q, p q, gorges ou poulies sur lesquelles appuient les valets, ou sur lesquelles passent les cordes chargées d'un poids qui servent à tendre la chaîne des étoffes.
 	- R r, rainure de huit lignes de profondeur sur six de large, & deux piés neuf pouces de longueur, qui reçoit la baguette e f, Pl. XXIX. fig. 6. par laquelle les portées de la chaîne sont enfilées.
@@ -450,7 +463,6 @@ Fig.
 3. Une des extrémités de l'ensouple de derriere.
 	- S, le tourillon. 
 
-Fig.
 4. Coupe des deux ensouples par le milieu de leur longueur.
 	- R, rainure où la chaîne est arrêtée.
 
@@ -488,10 +500,26 @@ signée O O. Remettage ou passage des fils de la chaîne dans les lisses.
 
 Dans cette figure, dont l'intelligence est nécessaire pour entendre celles qui suivent, on n'a seulement représenté que deux mailles sur chacune des huit lisses, la premiere lisse est celle qui est derriere les autres par rapport à l'ouvrier, & la derniere est celle qui est de son côté ou du côté de l'ensouple de devant, l'ordre alphabétique des lettres répond à l'ordre numérique des lisses, ainsi: A est la premiere lisse, la plus éloignée de l'ouvrier; B, la seconde; C, la troisieme, ainsi de suite, quel que soit le nombre des lisses: il faut aussi jetter les yeux sur le remettage du satin à huit lisses dans la Planche XLVI. ce remettage contient le plan d'une des deux courses que la Planche actuelle représente.
 
-	- A, B, C, D, E, F, G, H, les huit lisserons d'en haut.
-	- A A, B B, C C, D D, E E, F F, G G, H H, les huit lisserons d'en-bas. Le premier fil 1 de la chaîne passe dans la premiere maille de la premiere lisse comme on en voit en a. Le second fil, 2, de la chaîne passe dans la premiere maille de la seconde lisse, comme on voit en b. Le troisieme fil 3 de la chaîne passe dans la premiere maille de la troisieme lisse, comme on voit en c. Le quatrieme fil 4 de la chaîne passe dans la premiere maille de la quatrieme lisse, comme on voit en d. Le cinquieme fil 5 de la chaîne passe dans la premiere maille de la cinquieme lisse, comme on voit en e. Le sixieme fil 6 de la chaîne passe dans la premiere maille de la sixieme lisse, comme on voit en f. Le septieme fil 7 de la chaîne passe dans la premiere maille de la septieme lisse, comme on voit en g. Enfin le huitieme fil, 8, de la chaîne passe dans la premiere maille de la huitieme lisse, par laquelle se termine la premiere course du remettage.
+- A, B, C, D, E, F, G, H, les huit lisserons d'en haut.
+- A A, B B, C C, D D, E E, F F, G G, H H, les huit lisserons d'en-bas.
 
-Le neuvieme fil 9 de la chaîne passe dans la seconde maille de la premiere lisse, comme on voit en i. Le dixieme fil 10 de la chaîne passe dans la seconde maille de la seconde lisse, comme on voit en k. Le onzieme fil 11 de la chaîne passe dans la seconde maille de la troisieme lisse, comme on voit en l. Le douzieme fil 12 de la chaîne passe dans la seconde maille de la quatrieme lisse, comme on voit en m. Le treizieme fil 13 de la chaîne passe dans la seconde maille de la cinquieme lisse, comme on voit en n. Le quatorzieme fil 14 de la chaîne passe dans la seconde maille de la sixieme lisse, comme on voit en o. Le quinzieme fil 15 de la chaîne passe dans la seconde maille de la septieme lisse, comme on voit en p. Enfin le seizieme fil 16 de la chaîne passe dans la secon de maille de la huitieme lisse, comme on voit en q; ce qui termine la seconde course: ainsi de suite dans toute la largeur de la chaîne, prenant pour la course suivante toutes les troisiemes mailles de chaque lisse; pour la quatrieme course toutes les quatriemes mailles; pour la cinquieme course toutes les cinquiemes mailles, & ainsi de suite jusqu'à la fin de la piece, composée d'autant de fois quarante fils qu'il y a de portées.
+- Le premier fil 1 de la chaîne passe dans la premiere maille de la premiere lisse comme on en voit en a.
+- Le second fil, 2, de la chaîne passe dans la premiere maille de la seconde lisse, comme on voit en b.
+- Le troisieme fil 3 de la chaîne passe dans la premiere maille de la troisieme lisse, comme on voit en c.
+- Le quatrieme fil 4 de la chaîne passe dans la premiere maille de la quatrieme lisse, comme on voit en d.
+- Le cinquieme fil 5 de la chaîne passe dans la premiere maille de la cinquieme lisse, comme on voit en e.
+- Le sixieme fil 6 de la chaîne passe dans la premiere maille de la sixieme lisse, comme on voit en f.
+- Le septieme fil 7 de la chaîne passe dans la premiere maille de la septieme lisse, comme on voit en g.
+- Enfin le huitieme fil, 8, de la chaîne passe dans la premiere maille de la huitieme lisse, par laquelle se termine la premiere course du remettage.
+
+- Le neuvieme fil 9 de la chaîne passe dans la seconde maille de la premiere lisse, comme on voit en i.
+- Le dixieme fil 10 de la chaîne passe dans la seconde maille de la seconde lisse, comme on voit en k.
+- Le onzieme fil 11 de la chaîne passe dans la seconde maille de la troisieme lisse, comme on voit en l.
+- Le douzieme fil 12 de la chaîne passe dans la seconde maille de la quatrieme lisse, comme on voit en m.
+- Le treizieme fil 13 de la chaîne passe dans la seconde maille de la cinquieme lisse, comme on voit en n.
+- Le quatorzieme fil 14 de la chaîne passe dans la seconde maille de la sixieme lisse, comme on voit en o.
+- Le quinzieme fil 15 de la chaîne passe dans la seconde maille de la septieme lisse, comme on voit en p.
+- Enfin le seizieme fil 16 de la chaîne passe dans la secon de maille de la huitieme lisse, comme on voit en q; ce qui termine la seconde course: ainsi de suite dans toute la largeur de la chaîne, prenant pour la course suivante toutes les troisiemes mailles de chaque lisse; pour la quatrieme course toutes les quatriemes mailles; pour la cinquieme course toutes les cinquiemes mailles, & ainsi de suite jusqu'à la fin de la piece, composée d'autant de fois quarante fils qu'il y a de portées.
 
 
 PLANCHE XXXVIII,
@@ -540,7 +568,8 @@ PLANCHE XXXIX,
 
 signée Q Q. Etoffes en plein. Le taffetas & le raz-de-saint-Cyr.
 
-Fig. 1. Le taffetas vu au microscope.
+Fig.
+1. Le taffetas vu au microscope.
 	- M N, m n, envergures pour conserver l'encroix des fils de la chaîne.
 	- R S, plusieurs dents du peigne.
 	- 1, 2, 3, 4: 1, 2, 3, 4: 1, 2, 3, 4: 1, 2, 3, 4: les quatre courses à chacune desquelles la figure 2 de la Planche précédente est relative.
@@ -552,7 +581,14 @@ Fig. 1. Le taffetas vu au microscope.
 	- M N, m n, les envergures.
 	- R S, les dents du peigne.
 	- A, B, C, D, quatre courses du remettage.
-	- a b c d e f g h i k l m n o p q r s t u x y, la trame lancée par la navette alternativement de droite à gauche & de gauche à droite. On voit qu'au premier coup a b, deux fils de la chaîne qui sont contigus, 1 & 2, sont levés sur la trame, & que les deux autres, 3 & 4, sont abaissés au-dessous; au second coup de navette b c, que c'est le deux & troisieme fils qui sont levés; au troisieme coup de navette c d, que c'est le trois & quatrieme fils qui sont levés; au quatrieme coup de navette d e, que c'est le quatrieme fil de la premiere course A du remettage & le premier fil de la seconde course B qui levent ensemble, ce qui termine la premiere course des marches. Le coup suivant e f, est en tout semblable au premier coup a b; le dessein contient trois courses de marches, & finit en n o p q r s t u x y, par le premier coup de la cinquieme course des marches, qui sont au nombre de quatre de même que les lisses. Cette étoffe, de même que toutes celles qui s'y rapportent, n'a point d'envers; car la chaîne leve toujours moitié par moitié, & elle paroît rayée diagonalement.
+	- a b c d e f g h i k l m n o p q r s t u x y, la trame lancée par la navette alternativement de droite à gauche & de gauche à droite.
+
+On voit qu'au premier coup a b, deux fils de la chaîne qui sont contigus, 1 & 2, sont levés sur la trame, & que les deux autres, 3 & 4, sont abaissés au-dessous;
+
+- au second coup de navette b c, que c'est le deux & troisieme fils qui sont levés;
+- au troisieme coup de navette c d, que c'est le trois & quatrieme fils qui sont levés;
+- au quatrieme coup de navette d e, que c'est le quatrieme fil de la premiere course A du remettage & le premier fil de la seconde course B qui levent ensemble, ce qui termine la premiere course des marches.
+- Le coup suivant e f, est en tout semblable au premier coup a b; le dessein contient trois courses de marches, & finit en n o p q r s t u x y, par le premier coup de la cinquieme course des marches, qui sont au nombre de quatre de même que les lisses. Cette étoffe, de même que toutes celles qui s'y rapportent, n'a point d'envers; car la chaîne leve toujours moitié par moitié, & elle paroît rayée diagonalement.
 
 
 PLANCHE XL,
@@ -612,8 +648,8 @@ Fig.
 	- a b c d e f g h i k, neuf coups de navette formant deux courses des marches.
 	- k l m n o, trame qui est prise en dessus par trois fils sur les quatre; en comparant ces deux figures, on voit que dans la premiere c'est le même fil de chaîne qui est recouvert par les trois coups de trame qui se suivent, & que dans la seconde au contraire le fil de chaîne recouvre trois trames.
 
-Fig.
-3. Serge à six lisses, 1, 2, 3, 4, 5, 6: A: 1, 2, 3, 4, 5, 6: B: 1, 2, 3, 4, 5, 6, cinq courses du remettage pour deux courses des marches, ou douze coups de navette.
+3. Serge à six lisses,
+	- 1, 2, 3, 4, 5, 6: A: 1, 2, 3, 4, 5, 6: B: 1, 2, 3, 4, 5, 6, cinq courses du remettage pour deux courses des marches, ou douze coups de navette.
 	- A B C D E F G H I K L M N, les douze coups de navette. Cette étoffe n'a point d'envers.
 
 
@@ -661,7 +697,6 @@ Fig.
 	- 1, 2, 3, 4, 5, 6: 1, 2, 3, 4, 5, 6: 1, 2, 3, 4, 5, 6, trois courses du remettage pour deux courses des marches.
 	- A B C D E F G H I K L M N O P Q R S, les douze coups de navette qui composent les deux courses des marches. On voit que le même fil de chaîne est couvert cinq fois par cinq trames consécutives.
 
-Fig.
 4. Le même satin vu par l'endroit.
 	- A b C D e F G h I K l M N o P Q r S, les douze coups de navette qui composent les deux courses des marches, le même fil de chaîne recouvre cinq trames consécutives, & passe sous la sixieme.
 
@@ -744,8 +779,9 @@ PLANCHE LI,
 signée e.
 
 Satin à dix lisses vu du côté de l'envers & au microscope.
-	- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, deux courses du remettage pour vingt coups de navette composant deux courses des marches.
-	- A B C D E F G H I K L M N O P Q R S T V X Y Z  AE, les vingt coups de navette. On voit par cette figure que chaque fil de la chaîne recouvre neuf trames consécutives, à côté est la lisiere travaillée en taffetas.
+
+- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, deux courses du remettage pour vingt coups de navette composant deux courses des marches.
+- A B C D E F G H I K L M N O P Q R S T V X Y Z  AE, les vingt coups de navette. On voit par cette figure que chaque fil de la chaîne recouvre neuf trames consécutives, à côté est la lisiere travaillée en taffetas.
 
 
 PLANCHE LII,
@@ -756,8 +792,9 @@ PLANCHE LII,
 signée f.
 
 Le même satin à dix lisses vu du côté de l'endroit.
-	- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, deux courses du remettage pour deux courses des marches ou vingt coups de navettes.
-	- a b c d e f g h i k l m n o p q r s t u x y z oe, les vingt coups de navette. On voit par cette figure que le même fil de chaîne recouvre neuf trames consécutives.
+
+- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, deux courses du remettage pour deux courses des marches ou vingt coups de navettes.
+- a b c d e f g h i k l m n o p q r s t u x y z oe, les vingt coups de navette. On voit par cette figure que le même fil de chaîne recouvre neuf trames consécutives.
 
 Satins à dix lisses très-peu usités. Ils se peuvent faire de toutes sortes de qualités, mais on ne sauroit les tramer trop fins, ni les trop serrer pour accourcir le point. Largeur onze vingt-quatriemes d'aune entre les deux lisieres. Chaîne organsin monté à deux, trois ou quatre bouts, suivant la qualité que l'on veut donner à l'étoffe, depuis soixante-quinze portées jusqu'à cent vingt portées; il faut les organsins les plus parfaits, les plus nets & les plus brillans, ainsi que les trames qui doivent être de la premiere qualité; il faut, pour bien faire ces sortes de satins, que le poids de la chaîne excede le poids de la trame.
 

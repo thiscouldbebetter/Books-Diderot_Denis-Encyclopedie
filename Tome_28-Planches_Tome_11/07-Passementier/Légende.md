@@ -377,52 +377,52 @@ Métier à galon.
 
 Elévation perspective du métier à faire le galon.
 
-	- A A, &c. les piliers.
-	- B B, les barres de long.
-	- C C, &c. les écharpes.
-	- D D, les barres de long du haut.
-	- E E, les traverses du haut de large.
-	- F F, les poulies du chevalet.
-	- G G, les supports des poulies.
-	- H H, les broches des poulies.
-	- I I, les montans du chevalet.
-	- K K, les traverses de long du chevalet.
-	- L L, les traverses de large du chevalet.
-	- M, le siége.
-	- N N, &c. les marches.
-	- O, les bretelles de la poitriniere.
-	- P, le battant garni.
-	- Q, le bandage du battant.
-	- R R, l'arrête du battant.
-	- R R, les cremailleres.
-	- S, le porte-rame de devant.
-	- T, le porte-rame de derriere.
-	- U U, les potenceaux.
-	- V V, &c. les ensouples.
-	- X X, les supports des potenceaux.
-	- Y Y, les traverses des supports des potenceaux.
-	- Z, les bâtons de retour. &c. le chassis des retours.
-	- a a, les potenceaux des retours.
-	- b, les rouleaux des potenceaux de retour.
-	- c, les tirans de retour.
-	- d, la planchette du retour.
-	- e, le porte-planchette.
-	- f, les conduits des tirans de retour.
-	- g g, les soies de la chaîne.
-	- h, la passette.
-	- i, le galon fait.
-	- k, l'ensouple de devant.
-	- l l, les lames.
-	- m m, les traverses des lames.
-	- n n, les lisses.
-	- o, les tirages des lames.
-	- p, les tirages des lisses.
-	- q, les contrepoids des lisses.
-	- r r, les traverses des lisses.
-	- s, les fuseaux.
-	- t, les rames.
-	- u, la traverse du porte-rame de derriere.
-	- v, les aiguilles.
+- A A, &c. les piliers.
+- B B, les barres de long.
+- C C, &c. les écharpes.
+- D D, les barres de long du haut.
+- E E, les traverses du haut de large.
+- F F, les poulies du chevalet.
+- G G, les supports des poulies.
+- H H, les broches des poulies.
+- I I, les montans du chevalet.
+- K K, les traverses de long du chevalet.
+- L L, les traverses de large du chevalet.
+- M, le siége.
+- N N, &c. les marches.
+- O, les bretelles de la poitriniere.
+- P, le battant garni.
+- Q, le bandage du battant.
+- R R, l'arrête du battant.
+- R R, les cremailleres.
+- S, le porte-rame de devant.
+- T, le porte-rame de derriere.
+- U U, les potenceaux.
+- V V, &c. les ensouples.
+- X X, les supports des potenceaux.
+- Y Y, les traverses des supports des potenceaux.
+- Z, les bâtons de retour. &c. le chassis des retours.
+- a a, les potenceaux des retours.
+- b, les rouleaux des potenceaux de retour.
+- c, les tirans de retour.
+- d, la planchette du retour.
+- e, le porte-planchette.
+- f, les conduits des tirans de retour.
+- g g, les soies de la chaîne.
+- h, la passette.
+- i, le galon fait.
+- k, l'ensouple de devant.
+- l l, les lames.
+- m m, les traverses des lames.
+- n n, les lisses.
+- o, les tirages des lames.
+- p, les tirages des lisses.
+- q, les contrepoids des lisses.
+- r r, les traverses des lisses.
+- s, les fuseaux.
+- t, les rames.
+- u, la traverse du porte-rame de derriere.
+- v, les aiguilles.
 
 
 PLANCHE VI.
@@ -683,7 +683,6 @@ Fig.
 	- E E, les potenceaux des ensouples.
 	- F, les poids des ensouples.
 
-Fig.
 2. Les bretelles.
 	- A A, les bretelles.
 	- B, la poitriniere.
@@ -1021,7 +1020,6 @@ Fig.
 
 18. Le siége.
 
-Fig.
 19. Support des porte-lisse.
 	- A, le support.
 	- B B, les pattes.
@@ -1150,28 +1148,28 @@ Le haut de cette Planche représente un attelier où plusieurs ouvriers sont occ
 
 Le bas de cette Planche représente le métier à la basse lisse.
 
-	- A A, les piliers de devant.
-	- B B, les piliers de derriere.
-	- C C, les piliers de long d'en-bas.
-	- D D, &c. les goussets.
-	- E E, les pieces de long d'en-haut.
-	- F F, les traverses d'en-bas.
-	- G G, les traverses d'en-haut.
-	- H, le siége.
-	- I I, les traverses des porte-potenceaux.
-	- K K, les porte-potenceaux.
-	- L L, les potenceaux.
-	- M M, les ensouples des potenceaux.
-	- N, l'ensouple de devant.
-	- O O, les marches.
-	- P, le bouton des marches.
-	- Q Q, les lames.
-	- R R, les rapports des lames.
-	- S S, les lisses.
-	- T T, les rames.
-	- U U, les poulies.
-	- V V, les rapports des poulies.
-	- X, les traverses des rapports des poulies.
+- A A, les piliers de devant.
+- B B, les piliers de derriere.
+- C C, les piliers de long d'en-bas.
+- D D, &c. les goussets.
+- E E, les pieces de long d'en-haut.
+- F F, les traverses d'en-bas.
+- G G, les traverses d'en-haut.
+- H, le siége.
+- I I, les traverses des porte-potenceaux.
+- K K, les porte-potenceaux.
+- L L, les potenceaux.
+- M M, les ensouples des potenceaux.
+- N, l'ensouple de devant.
+- O O, les marches.
+- P, le bouton des marches.
+- Q Q, les lames.
+- R R, les rapports des lames.
+- S S, les lisses.
+- T T, les rames.
+- U U, les poulies.
+- V V, les rapports des poulies.
+- X, les traverses des rapports des poulies.
 
 
 PLANCHE XIX.
@@ -1234,12 +1232,7 @@ Fig.
 20. &
 21. Potenceaux.
 	- A A, les entailles des porte-potenceaux.
-	- B B, &c. les tenons.
-
-20. &
-21. Potenceaux.
-	- A A, les entailles des porte-potenceaux.
-	- B B, &c. les entailles des ensouples.
+	- B B, &c. les tenons/les entailles des ensouples.
 
 22. &
 23. Porte-potenceaux.
@@ -1599,6 +1592,8 @@ Fig.
 15. Serpette.
 	- A, le fer.
 	- B, le manche.
+
+16. [?]
 
 17. Paquet de roseaux préparés.
 

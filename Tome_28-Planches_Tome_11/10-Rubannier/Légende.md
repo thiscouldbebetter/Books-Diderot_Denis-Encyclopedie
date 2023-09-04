@@ -13,8 +13,7 @@ PLANCHE I.
 
 [![Planche 1](Planche_01.jpeg)](Planche_01.jpeg)
 
-Pl. II, fig. 1. Pl. III, fig. 1. Pl. IV, fig. 1. Pl.
-	- V, fig. 1. Pl. VI, fig. 1. & Pl. VII, fig. 1.
+Pl. II, fig. 1. Pl. III, fig. 1. Pl. IV, fig. 1. Pl. V, fig. 1. Pl. VI, fig. 1. & Pl. VII, fig. 1.
 
 - A, traverses du haut des côtés servant à porter les arbres & chassis des mouvemens du metier.
 - B, montans de derriere.
@@ -425,81 +424,84 @@ PLANCHE VIII.
 
 Fig.
 
-- 1. &
-- 2. Petits montans de derriere.
+1. &
+2. Petits montans de derriere.
 	- A A, les trous de l'arbre.
 
-- 3. &
-- 4. Petits montans de devant.
+3. &
+4. Petits montans de devant.
 	- A A, les trous de l'arbre.
 	- B B, &c. les entailles.
 	- C C, les tourniquets.
 
-- 7. Arbre rond des chaînes.
+5. &
+6. [?]
+
+7. Arbre rond des chaînes.
 	- A A, les tourillons.
 
-- 8. Traverse de derriere du bas.
+8. Traverse de derriere du bas.
 	- A A, les tenons doubles.
 	- B B, les entailles.
 	- C C, les conduits.
 
-- 9. &
-- 10. Traverses du haut des côtés.
+9. &
+10. Traverses du haut des côtés.
 	- A A, &c. les mortaises.
 	- B B, les entailles.
 
-- 11. &
-- 12. Traverses du milieu des côtés.
+11. &
+12. Traverses du milieu des côtés.
 	- A A, &c. les tenons.
 	- B B, les mortaises.
 	- C C, &c. les entailles.
 	- D, le tourniquet.
 
-- 13. &
-- 14. Traverses du bas des côtés.
+13. &
+14. Traverses du bas des côtés.
 	- A A, &c. les tenons.
 	- B B, &c. les entailles.
 	- C C, &c. les tourniquets.
 	- D, goujon de conduite.
 
-- 15. Traverse de devant.
+15. Traverse de devant.
 	- A A, les tenons doubles.
 	- B B, &c. passages des rubans.
 
-- 16. Traverse d'en-bas de devant.
+16. Traverse d'en-bas de devant.
 	- A A, les tenons.
 
-- 17. Broche servant de point d'appui des marches.
+17. Broche servant de point d'appui des marches.
 	- A, la tête.
 	- B, la tige.
 
-- 18. Clou à vis.
+18. Clou à vis.
 	- A, la tête.
 	- B, la vis à écroux.
 
-- 19. Colonne.
+19. Colonne.
 	- A A, les tenons.
 
-- 20. Cale de conduite.
+20. Cale de conduite.
 
-- 21. &
-- 22. Support des croix du figuré.
+21. &
+22. Support des croix du figuré.
 	- A A, les points d'appui.
 	- B B, les tenons.
 	- C C, les trous pour clavettes.
 
-- 23. &
-- 24. Marches.
+23. &
+24. Marches.
 	- A A, les poulies.
 	- B B, les points d'appui.
 	- C C, les fourches.
 
-- 25. &
-- 26. Les supports de l'arbre rond des rubans.
+25. &
+26. Les supports de l'arbre rond des rubans.
 	- A A, les queues d'aronde.
 
-- 27. &
-- 28. Montans de derriere.
+27. &
+28. Montans de derriere.
 	- A A, les tenons.
 	- B B, les entailles à queues d'aronde.
 	- C C, &c. les mortaises.
