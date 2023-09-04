@@ -10,6 +10,7 @@ PLANCHE Iere.
 [![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 Figure
+
 1. 
 	- a b, Le métier à gaze vu sur la longueur.
 	- c, le semple.
@@ -44,7 +45,6 @@ Fig.
 
 5. La passette. 
 
-Fig.
 6. Le rateau.
 
 

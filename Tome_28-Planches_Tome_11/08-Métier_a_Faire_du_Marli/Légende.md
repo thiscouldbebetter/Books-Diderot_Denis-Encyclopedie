@@ -38,43 +38,42 @@ PLANCHE IV.
 
 Elévation en face du métier à marli. Noms des pieces qui composent le métier à marli.
 
-	- A A, &c. les piliers.
-	- B B, les traverses du haut.
-	- C, la traverse d'en bas.
-	- D D, les barres de longueur du haut.
-	- E E, les barres de longueur du bas.
-	- F F, les patins.
-	- G G, &c. les supports des patins.
-	- H H, les pages.
-	- I, l'ensouple de devant.
-	- J, l'ensouple de derriere.
-	- K K, les alonges.
-	- L, la partissoire.
-	- M M, les clés.
-	- N N, &c. les marches.
-	- O O, &c. les lames.
-	- P P, &c. les contremarches.
-	- Q, le bâton de fond.
-	- R R, les tringles des lisserons.
-	- S S, &c. les barres des lisses. Pieces qui composent le battant.
-
-T, le porte-battant.
-	- U U, les épées.
-	- V, le sommier.
-	- X, la barre de dessus.
-	- Y Y, les cremilleres.
-	- Z, la sellette de l'ouvrier. &c. &c. les supports de la sellette.
-	- a, la baguette des lisses de soie.
-	- b b, verges d'encroisures.
-	- c c, les contrepoids.
-	- d d, &c. les bricots.
-	- e e, les supports des bascules.
-	- f f, &c. les contrefiches.
-	- g g, les sommiers.
-	- h, la navette.
-	- i, le cric de l'ensouple de devant.
-	- k, le cric du battant.
-	- l, le cliquet.
+- A A, &c. les piliers.
+- B B, les traverses du haut.
+- C, la traverse d'en bas.
+- D D, les barres de longueur du haut.
+- E E, les barres de longueur du bas.
+- F F, les patins.
+- G G, &c. les supports des patins.
+- H H, les pages.
+- I, l'ensouple de devant.
+- J, l'ensouple de derriere.
+- K K, les alonges.
+- L, la partissoire.
+- M M, les clés.
+- N N, &c. les marches.
+- O O, &c. les lames.
+- P P, &c. les contremarches.
+- Q, le bâton de fond.
+- R R, les tringles des lisserons.
+- S S, &c. les barres des lisses. Pieces qui composent le battant.
+- T, le porte-battant.
+- U U, les épées.
+- V, le sommier.
+- X, la barre de dessus.
+- Y Y, les cremilleres.
+- Z, la sellette de l'ouvrier. &c. &c. les supports de la sellette.
+- a, la baguette des lisses de soie.
+- b b, verges d'encroisures.
+- c c, les contrepoids.
+- d d, &c. les bricots.
+- e e, les supports des bascules.
+- f f, &c. les contrefiches.
+- g g, les sommiers.
+- h, la navette.
+- i, le cric de l'ensouple de devant.
+- k, le cric du battant.
+- l, le cliquet.
 
 
 PLANCHE V.
@@ -158,7 +157,6 @@ Fig.
 	- A A, &c. les mortaises des piliers.
 	- B B, les mortaises des supports des patins. 
 
-Fig.
 28. &
 29. Pages.
 	- A A, les trous des tourillons.

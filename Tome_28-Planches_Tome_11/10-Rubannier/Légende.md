@@ -145,6 +145,7 @@ PLANCHE II.
 [![Planche 2](Planche_02.jpeg)](Planche_02.jpeg)
 
 Fig.
+
 2. &
 3. &
 4. &
@@ -152,7 +153,6 @@ Fig.
 	- A A, &c. les tenons.
 	- B B, &c. les trous des bobines.
 
-Fig.
 6. &
 7. Supports des chassis à bobines:
 	- A A, &c. les entailles.
@@ -191,6 +191,7 @@ PLANCHE III.
 [![Planche 3](Planche_03.jpeg)](Planche_03.jpeg)
 
 Fig.
+
 2. &
 3. Support des lisses à figurer.
 	- A A, &c. les trous des broches des poulies.
@@ -325,6 +326,7 @@ PLANCHE V.
 [![Planche 5](Planche_05.jpeg)](Planche_05.jpeg)
 
 Fig.
+
 2. Volant.
 	- A A, la croisée.
 	- B B, le cercle.
@@ -352,16 +354,16 @@ PLANCHE VI.
 [![Planche 6](Planche_06.jpeg)](Planche_06.jpeg)
 
 Fig.
-	2. &
-	3. Bras de l'arbre de fer.
-	- A A, les coussinets.
-	- B B, &c. les vis à écroux.
-	- C C, les trous du rouleau.
+
+2. &
+3. Bras de l'arbre de fer.
+- A A, les coussinets.
+- B B, &c. les vis à écroux.
+- C C, les trous du rouleau.
 
 4. Arbre rond des bras de l'arbre de fer.
 	- A A, les tourillons. 
 
-Fig.
 5. Arbre rond pour le passage des rubans.
 	- A A, les tourillons.
 
@@ -386,6 +388,7 @@ PLANCHE VII.
 [![Planche 7](Planche_07.jpeg)](Planche_07.jpeg)
 
 Fig.
+
 2. &
 3. &
 4. Broches.
@@ -421,81 +424,82 @@ PLANCHE VIII.
 [![Planche 8](Planche_08.jpeg)](Planche_08.jpeg)
 
 Fig.
-1. &
-2. Petits montans de derriere.
+
+- 1. &
+- 2. Petits montans de derriere.
 	- A A, les trous de l'arbre.
 
-3. &
-4. Petits montans de devant.
+- 3. &
+- 4. Petits montans de devant.
 	- A A, les trous de l'arbre.
 	- B B, &c. les entailles.
 	- C C, les tourniquets.
 
-7. Arbre rond des chaînes.
+- 7. Arbre rond des chaînes.
 	- A A, les tourillons.
 
-8. Traverse de derriere du bas.
+- 8. Traverse de derriere du bas.
 	- A A, les tenons doubles.
 	- B B, les entailles.
 	- C C, les conduits.
 
-9. &
-10. Traverses du haut des côtés.
+- 9. &
+- 10. Traverses du haut des côtés.
 	- A A, &c. les mortaises.
 	- B B, les entailles.
 
-11. &
-12. Traverses du milieu des côtés.
+- 11. &
+- 12. Traverses du milieu des côtés.
 	- A A, &c. les tenons.
 	- B B, les mortaises.
 	- C C, &c. les entailles.
 	- D, le tourniquet.
 
-13. &
-14. Traverses du bas des côtés.
+- 13. &
+- 14. Traverses du bas des côtés.
 	- A A, &c. les tenons.
 	- B B, &c. les entailles.
 	- C C, &c. les tourniquets.
 	- D, goujon de conduite.
 
-15. Traverse de devant.
+- 15. Traverse de devant.
 	- A A, les tenons doubles.
 	- B B, &c. passages des rubans.
 
-16. Traverse d'en-bas de devant.
+- 16. Traverse d'en-bas de devant.
 	- A A, les tenons.
 
-17. Broche servant de point d'appui des marches.
+- 17. Broche servant de point d'appui des marches.
 	- A, la tête.
 	- B, la tige.
 
-18. Clou à vis.
+- 18. Clou à vis.
 	- A, la tête.
 	- B, la vis à écroux.
 
-19. Colonne.
+- 19. Colonne.
 	- A A, les tenons.
 
-20. Cale de conduite.
+- 20. Cale de conduite.
 
-21. &
-22. Support des croix du figuré.
+- 21. &
+- 22. Support des croix du figuré.
 	- A A, les points d'appui.
 	- B B, les tenons.
 	- C C, les trous pour clavettes.
 
-23. &
-24. Marches.
+- 23. &
+- 24. Marches.
 	- A A, les poulies.
 	- B B, les points d'appui.
 	- C C, les fourches.
 
-25. &
-26. Les supports de l'arbre rond des rubans.
+- 25. &
+- 26. Les supports de l'arbre rond des rubans.
 	- A A, les queues d'aronde.
 
-27. &
-28. Montans de derriere.
+- 27. &
+- 28. Montans de derriere.
 	- A A, les tenons.
 	- B B, les entailles à queues d'aronde.
 	- C C, &c. les mortaises.
@@ -566,7 +570,6 @@ Fig.
 	- D D, les crampons.
 	- E E, &c. les dents de renvoi.
 
-Fig.
 17. Arbre du chassis du battant.
 	- A, l'arbre.
 	- B B, les tourillons.

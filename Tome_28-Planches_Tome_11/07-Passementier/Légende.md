@@ -11,7 +11,13 @@ PLANCHE Iere.
 Le haut de cette Planche représente l'attelier où plusieurs ouvriers sont occupés, l'un en a à ourdir une chaîne faisant tourner de la main gauche l'ourdissoir b par le moyen de la manivelle c attenante à la poulie d qui conduit par une corde à l'ourdissoir, & de la droite à encroiser les fils venant de la banque e, un autre ouvrier en f à devider la chaîne sur le rouet g, un autre ouvrier en h à ourdir sur l'ourdissoir long. Ourdissoir.
 
 Fig.
-1. Ourdissoir. 2, l'arbre. 3, les traverses. 4, les aîles. 5, les fils de la chaîne. 6, la broche de lanterne. 7, le blin.
+1. Ourdissoir.
+	- 2, l'arbre.
+	- 3, les traverses.
+	- 4, les aîles.
+	- 5, les fils de la chaîne.
+	- 6, la broche de lanterne.
+	- 7, le blin.
 	- A A, les montans.
 	- B B, &c. les broches pour arrêter la chaîne.
 	- C, la poulie. D D D, les montans du chassis.
@@ -156,7 +162,6 @@ Fig.
 
 17. Broche. 
 
-Fig.
 18. Bobine ou rochet garni.
 	- A, la poulie.
 
@@ -177,7 +182,8 @@ Fig.
 2. Montans de l'ourdissoir long.
 	- A A, &c. les rochets.
 
-3 & 4. Traverses de l'ourdissoir long.
+3. &
+4. Traverses de l'ourdissoir long.
 	- A A, &c. les trous des broches.
 
 5. Rouet à retordre.
@@ -320,7 +326,6 @@ Fig.
 	- A, la fourche.
 	- B, le manche.
 
-Fig.
 15. Petite manivelle.
 	- A, la manivelle.
 	- B, l'embâse.
@@ -371,6 +376,7 @@ PLANCHE V.
 Métier à galon.
 
 Elévation perspective du métier à faire le galon.
+
 	- A A, &c. les piliers.
 	- B B, les barres de long.
 	- C C, &c. les écharpes.
@@ -491,8 +497,8 @@ Fig.
 25. Traverse des piliers de devant.
 	- A A, &c. les tenons. 
 
-Fig.
-26 & 27. Traverses des supports des potenceaux des chaînes.
+26. &
+27. Traverses des supports des potenceaux des chaînes.
 	- A A, &c. les tenons.
 	- B B, les mortaises.
 
@@ -849,7 +855,6 @@ Fig.
 14. &
 15. Coussinets inférieurs. 
 
-Fig.
 16. &
 17. Supports du moulinet.
 
@@ -868,7 +873,8 @@ Fumage du galon.
 
 Le haut de cette Planche représente un attelier à fumer le galon, où plusieurs ouvriers sont occupés l'un en a à tourner le cylindre, tandis qu'un autre en b pose le galon dessus, un autre en c tourne le cylindre d'une main & pose le galon de l'autre ; on voit en d le cylindre suspendu au-dessus d'un poële de feu.
 
-Fig. 1. Cylindre monté.
+Fig.
+1. Cylindre monté.
 	- A, le cylindre.
 	- B B, le galon tourné autour.
 	- C, l'arbre.
@@ -1143,6 +1149,7 @@ PLANCHE XVIII.
 Le haut de cette Planche représente un attelier où plusieurs ouvriers sont occupés, l'un en a, à travailler au métier à la basse lisse ; un autre en b, à plier le galon sur l'ensouple du plioir, qu'il tourne d'une main tenant le peigne de l'autre, & un autre en c, à tenir l'ensouple.
 
 Le bas de cette Planche représente le métier à la basse lisse.
+
 	- A A, les piliers de devant.
 	- B B, les piliers de derriere.
 	- C C, les piliers de long d'en-bas.
@@ -1186,7 +1193,6 @@ Fig.
 	- C C,  les mortaises des pieces de long d'en-bas.
 	- D D, les mortaises des goussets.
 
-Fig.
 5. &
 6. Piliers de devant.
 	- A A, &c. les tenons.
@@ -1715,7 +1721,6 @@ Fig.
 	- A A, les entailles des barres de côté.
 	- B B, les entailles des barres de dessus.
 
-Fig.
 16. Ecroux.
 
 17. Manivelle.
@@ -1889,7 +1894,6 @@ Fig.
 	- C, la tige.
 	- D, la pointe. 
 
-Fig.
 7. Marteau.
 	- A, la tête.
 	- B, la panne.
@@ -1910,6 +1914,7 @@ Fig.
 	- B, l'aspersoir. Renvoi des figures indiquées.
 
 Figure
+
 2. Rouet, voyez Planche III. fig. 5.
 
 3. &
@@ -1971,7 +1976,9 @@ Figure
 
 31. Lanterne, Planche XIV. dans la vignette en d.
 
-32. Galon roulé 33... Pl. XIV. dans la vignette a, b, c.
+32. Galon roulé.
+
+33. Pl. XIV. dans la vignette a, b, c.
 
 34. Métier coupé.
 
@@ -1983,7 +1990,9 @@ Figure
 
 38. Ourdissoir long, Pl. I. dans la vignette en h.
 
-39. Femme qui guipe, 40. Femme qui peigne,  Pl. XV. fig. 3.
+39. Femme qui guipe,
+
+40. Femme qui peigne,  Pl. XV. fig. 3.
 
 41. Frange pour être guipée, Pl. XV. fig. 3.
 
@@ -2015,9 +2024,10 @@ Figure
 
 55. Bandes coupées.
 
-56. Echantillon de passepoil, Pl. XX. fig. 18.
-maniere de tenir l'ensouple,
+56. Echantillon de passepoil, Pl. XX. fig. 18. maniere de tenir l'ensouple,
+
 57. Plates navettes, Pl. XX. fig. 15.
+
 58.  le vergeon passant, Pl. XX. fig. 21. F.
 
 59. Le vergeon, Pl. XX. fig. 22.

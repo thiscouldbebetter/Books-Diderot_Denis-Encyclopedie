@@ -105,8 +105,8 @@ Fig.
 		- A A, les pattes.
 		- B B, les dents. 
 
-Fig.
 5. &
+
 6. Deux des quatre arrêts de l'ensouple de derriere.
 	- A A, les tenons, &c.
 
@@ -143,40 +143,43 @@ Fig.
 	- B B, les mortaises à queue.
 	- C C, les mortaises des sommiers du bas.
 	- D D, les tasseaux de la sellette.
-	- E E, les mortaises de l'entretoise du bas. Détail des pieces des Planches II, III, IV, V & VI.
-		- A A, piliers de devant.
-		- B, entretoise des piliers de devant.
-		- C, entretoise à queues des piliers de devant.
-		- D, siége.
-		- E, tasseaux du siége.
-		- F F, piliers de derriere.
-		- G, entretoise des piliers de derriere.
-		- H H, sommiers du haut.
-		- I, entretoise des sommiers du haut.
-		- K K, supports à crémaillere.
-		- L L, boulons des supports.
-		- M M, sommiers du bas. M M M M, supports des sommiers du bas.
-		- N, entretoise des supports de sommiers du bas.
-		- O, ensouple de derriere.
-		- P P, arrêts de l'ensouple de derriere.
-		- Q Q, contrepoids.
-		- R R, trames.
-		- S, ensouple de devant.
-		- T T, arrêts de l'ensouple de devant.
-		- T, navette.
-		- U, temple.
-		- V, rouleau.
-		- X, toile faite.
-		- Y, lien du rouleau.
-		- Z Z, battant. & &, lisses.
-		- a a, poulies des lisses.
-		- b, support des poulies des lisses.
-		- c c, tirans des lisses.
-		- d d, marches.
-		- e e, conduits des marches.
-		- f, point d'appui des marches.
-		- g g, barres pour séparer les travers.
-		- h, bâton à écarter les trames.
+	- E E, les mortaises de l'entretoise du bas.
+
+Détail des pieces des Planches II, III, IV, V & VI.
+
+	- A A, piliers de devant.
+	- B, entretoise des piliers de devant.
+	- C, entretoise à queues des piliers de devant.
+	- D, siége.
+	- E, tasseaux du siége.
+	- F F, piliers de derriere.
+	- G, entretoise des piliers de derriere.
+	- H H, sommiers du haut.
+	- I, entretoise des sommiers du haut.
+	- K K, supports à crémaillere.
+	- L L, boulons des supports.
+	- M M, sommiers du bas. M M M M, supports des sommiers du bas.
+	- N, entretoise des supports de sommiers du bas.
+	- O, ensouple de derriere.
+	- P P, arrêts de l'ensouple de derriere.
+	- Q Q, contrepoids.
+	- R R, trames.
+	- S, ensouple de devant.
+	- T T, arrêts de l'ensouple de devant.
+	- T, navette.
+	- U, temple.
+	- V, rouleau.
+	- X, toile faite.
+	- Y, lien du rouleau.
+	- Z Z, battant. & &, lisses.
+	- a a, poulies des lisses.
+	- b, support des poulies des lisses.
+	- c c, tirans des lisses.
+	- d d, marches.
+	- e e, conduits des marches.
+	- f, point d'appui des marches.
+	- g g, barres pour séparer les travers.
+	- h, bâton à écarter les trames.
 
 
 PLANCHE VII.
@@ -254,7 +257,6 @@ Fig.
 
 4. Vue perspective de l'une des dents du peigne du battant. 
 
-Fig.
 5. La même dent vue de face.
 
 6. L'un des deux tasseaux de la sellette.
@@ -324,7 +326,8 @@ Fig.
 	- A A, les mortaises des montans & liens.
 	- B B, les pattes.
 
-25 & 26. Montans & liens.
+25. &
+26. Montans & liens.
 	- A A, les montans.
 	- B B, les liens.
 	- C C, les tenons.
