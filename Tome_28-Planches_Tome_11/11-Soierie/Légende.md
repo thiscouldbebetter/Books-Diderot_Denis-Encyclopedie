@@ -3,7 +3,14 @@ SOIERIE.
 
 Contenant cent trente-cinq Planches, équivalentes à cent cinquante-huit à cause de vingt-trois Planches doubles.
 
-Les Planches de cet Art sont divisées en cinq Sections. La premiere contient les apprêts de la soie ou les différentes préparations que reçoit cette matiere avant d'être employée à former une étoffe. La seconde Section renferme les Planches relatives à la fabrication des étoffes en plein ou étoffes unies. La troisieme contient celles qui sont relatives aux étoffes brochées & figurées. La quatrieme concerne la fabrication des différentes sortes de velours. La cinquieme Section contient la maniere de chiner certaines étoffes, les différentes sortes de calandres & la fabrication des lisses. Nous devons à un habile Dessinateur, très-versé dans la fabrique, les différentes armures de la seconde & troisieme Section. Toutes les Planches qui sont chiffrées de suite depuis le numéro I jusqu'au numéro CXXXV, sont marquées au bas de chacune par une lettre ou signature composée des lettres de l'alphabet, répétées autant de fois qu'il a été nécessaire. Cette marque ou signature se trouve répétée au commencement de l'explication de chaque Planche. 
+Les Planches de cet Art sont divisées en cinq Sections.
+
+- La premiere contient les apprêts de la soie ou les différentes préparations que reçoit cette matiere avant d'être employée à former une étoffe.
+- La seconde Section renferme les Planches relatives à la fabrication des étoffes en plein ou étoffes unies.
+- La troisieme contient celles qui sont relatives aux étoffes brochées & figurées. La quatrieme concerne la fabrication des différentes sortes de velours.
+- La cinquieme Section contient la maniere de chiner certaines étoffes, les différentes sortes de calandres & la fabrication des lisses.
+
+Nous devons à un habile Dessinateur, très-versé dans la fabrique, les différentes armures de la seconde & troisieme Section. Toutes les Planches qui sont chiffrées de suite depuis le numéro I jusqu'au numéro CXXXV, sont marquées au bas de chacune par une lettre ou signature composée des lettres de l'alphabet, répétées autant de fois qu'il a été nécessaire. Cette marque ou signature se trouve répétée au commencement de l'explication de chaque Planche. 
 
 PREMIERE SECTION.
 -----------------
