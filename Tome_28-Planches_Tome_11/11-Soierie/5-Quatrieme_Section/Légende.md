@@ -1,4 +1,5 @@
-SOIERIE - QUATRIEME SECTION ---------------------------
+SOIERIE - QUATRIEME SECTION
+===========================
 
 Contenant la fabrique des Velours, & autres objets appartenans à la fabrique en général. 
 
@@ -333,7 +334,7 @@ Fig.
 PLANCHE C,
 ----------
 
-[![Planche 100](Planche_0100.jpeg)](Planche_0100.jpeg)
+[![Planche 100](Planche_100.jpeg)](Planche_100.jpeg)
 
 signée h h h. Velours raz d'Angleterre.
 
@@ -381,7 +382,7 @@ Les fers sont ronds, & on les tire du corps de l'etoffe avec la fourche, comme i
 PLANCHE CI,
 -----------
 
-[![Planche 101](Planche_0101.jpeg)](Planche_0101.jpeg)
+[![Planche 101](Planche_101.jpeg)](Planche_101.jpeg)
 
 signée i i i.
 
@@ -403,7 +404,7 @@ Fig.
 PLANCHE CII,
 ------------
 
-[![Planche 102](Planche_0102.jpeg)](Planche_0102.jpeg)
+[![Planche 102](Planche_102.jpeg)](Planche_102.jpeg)
 
 signée k k k.
 
@@ -420,11 +421,12 @@ Fig.
 PLANCHE CIII,
 -------------
 
-[![Planche 103](Planche_0103.jpeg)](Planche_0103.jpeg)
+[![Planche 103](Planche_103.jpeg)](Planche_103.jpeg)
 
 signée l l l.
 
 Fig.
+
 7. Cinquieme coup de navette; le poil A p P est levé, ainsi que toutes les lisses de la toile, excepté la troisieme 33. On passe alors la navette dans l'ouverture entre le poil les cinq lisses qui sont levées & celle qui est abaissée; le fil de la navette est indiqué par un point au-devant du peigne, ce fil est ensuite serré auprès de l'étoffe par un coup de battant.
 
 8. Sixieme coup de navette; le poil A p P est abaissé, & la cinquieme lisse 55, toutes les autres lisses de la toile sont levées, c'est dans cet état que l'on passe la navette dans l'ouverture au-devant du peigne, son fil indiqué par un point se trouve au-dessus du poil & du sixieme des fils de la toile qui sont abaissés par la cinquieme lisse. Ce coup termine la course de la toile. On recommence ensuite comme à la fig. 1. Pl. CI. en plaçant le premier fer que l'on dégage de l'étoffe en coupant les boucles du poil qui le renferment avec le rabot, comme il sera dit ci-après.
@@ -449,7 +451,7 @@ Fig.
 PLANCHE CIV,
 ------------
 
-[![Planche 104](Planche_0104.jpeg)](Planche_0104.jpeg)
+[![Planche 104](Planche_104.jpeg)](Planche_104.jpeg)
 
 signée m m m.
 
@@ -457,9 +459,9 @@ Fig.
 1. Fer de coupé. Sa longueur b c doit être de quel-ques pouces de plus que la largeur de l'étoffe, qui a ordinairement onze vingt-quatriemes d'aune entre les deux lisieres.
 	- a b, coude ou crochet tenant lieu de la pedonne des fers de frisé; il empêche, étant tourné de maniere que le bout a ne touche ni à la toile qui est en-dessous, ni au poil qui est en-dessus, que le fer passe à-travers l'un ou l'autre, lors de son introduction. D'autres ouvriers préferent d'armer le fer d'une pedonne creuse, dans le canon de laquelle son extrémité est placée.
 
-1. bis. Le fer de coupé vu au microscope.
-	- A B C D E, le fer que l'on a fracturé dans le milieu pour y placer sa coupe ou profil dessiné plus en grand; dans cette figure le côté plan du côté de C est celui auquel le peigne s'applique, & l'autre côté qui est un peu arrondi du côté de D, est tourné du côté de l'ouvrier.
-	- 1 & 2, la rainure dans laquelle coule la lame tranchante du rabot; ces fers sont de laiton & tirés à la filiere.
+	- bis. Le fer de coupé vu au microscope.
+		- A B C D E, le fer que l'on a fracturé dans le milieu pour y placer sa coupe ou profil dessiné plus en grand; dans cette figure le côté plan du côté de C est celui auquel le peigne s'applique, & l'autre côté qui est un peu arrondi du côté de D, est tourné du côté de l'ouvrier.
+		- 1 & 2, la rainure dans laquelle coule la lame tranchante du rabot; ces fers sont de laiton & tirés à la filiere.
 
 2. Le rabot qui sert à couper les boucles. Ces boucles étant coupées forment le poil du velours: le rabot, vu du côté de l'ouvrier qui en fait usage, est dessiné de la grandeur effective dont il est.
 	- A B C D, platine de fer ou fust du rabot.
@@ -502,7 +504,7 @@ Ce sont les boucles qui entourent le second fer qui servent de point d'appui & d
 PLANCHE CV,
 -----------
 
-[![Planche 105](Planche_0105.jpeg)](Planche_0105.jpeg)
+[![Planche 105](Planche_105.jpeg)](Planche_105.jpeg)
 
 signée n n n. Velours d'Hollande à trois lisses.
 
@@ -544,7 +546,7 @@ Peigne de même, quatre fils de toile & deux fils de poil dans chaque dent.
 PLANCHE CVI,
 ------------
 
-[![Planche 106](Planche_0106.jpeg)](Planche_0106.jpeg)
+[![Planche 106](Planche_106.jpeg)](Planche_106.jpeg)
 
 signée o o o. Velours à six lisses façon de Genes.
 
@@ -587,7 +589,7 @@ Peigne de vingt portées ou huit cens dents, quatre fils de toile & un fil de po
 PLANCHE CVII,
 -------------
 
-[![Planche 107](Planche_0107.jpeg)](Planche_0107.jpeg)
+[![Planche 107](Planche_107.jpeg)](Planche_107.jpeg)
 
 signée p p p. Velours frisé, fond satin sans cantre, monté sur trois ensouples.
 
@@ -631,7 +633,7 @@ Quatorze fils dans chaque dent.
 PLANCHE CVIII,
 --------------
 
-[![Planche 108](Planche_0108.jpeg)](Planche_0108.jpeg)
+[![Planche 108](Planche_108.jpeg)](Planche_108.jpeg)
 
 signée q q q. Velours frisé, coupé, fond satin 1000 roquetins.
 
@@ -667,7 +669,7 @@ Douze fils de piece ou chaîne & deux fils de poil des roquetins, font par dent 
 PLANCHE CIX,
 ------------
 
-[![Planche 109](Planche_0109.jpeg)](Planche_0109.jpeg)
+[![Planche 109](Planche_109.jpeg)](Planche_109.jpeg)
 
 signée r r r. Velours frisé, coupé, fond satin, 1600 roquetins.
 
@@ -695,7 +697,7 @@ Peigne d'acier de vingt portées ou huit cens dents; huit fils de piece & deux f
 PLANCHE CX,
 -----------
 
-[![Planche 110](Planche_0110.jpeg)](Planche_0110.jpeg)
+[![Planche 110](Planche_110.jpeg)](Planche_110.jpeg)
 
 signée s s s. Velours frisé, coupé, fond or.
 
@@ -741,7 +743,7 @@ Les roquetins doivent être montés à trois ou à quatre bouts d'organsin, pour
 PLANCHE CXI,
 ------------
 
-[![Planche 111](Planche_0111.jpeg)](Planche_0111.jpeg)
+[![Planche 111](Planche_111.jpeg)](Planche_111.jpeg)
 
 signée t t t.
 
@@ -790,7 +792,7 @@ Fig.
 PLANCHE CXII,
 -------------
 
-[![Planche 112](Planche_0112.jpeg)](Planche_0112.jpeg)
+[![Planche 112](Planche_112.jpeg)](Planche_112.jpeg)
 
 signée u u u.
 
@@ -826,7 +828,7 @@ Fig.
 PLANCHE CXIII,
 --------------
 
-[![Planche 113](Planche_0113.jpeg)](Planche_0113.jpeg)
+[![Planche 113](Planche_113.jpeg)](Planche_113.jpeg)
 
 signée x x x.
 
@@ -856,7 +858,7 @@ Fig.
 PLANCHE CXIV,
 -------------
 
-[![Planche 114](Planche_0114.jpeg)](Planche_0114.jpeg)
+[![Planche 114](Planche_114.jpeg)](Planche_114.jpeg)
 
 signée y y y.
 
@@ -896,7 +898,7 @@ Fig.
 PLANCHE CXV,
 ------------
 
-[![Planche 115](Planche_0115.jpeg)](Planche_0115.jpeg)
+[![Planche 115](Planche_115.jpeg)](Planche_115.jpeg)
 
 signée z z z. Différens outils & la maniere de tordre une nouvelle chaîne à la suite d'une piece qui est prête à finir.
 

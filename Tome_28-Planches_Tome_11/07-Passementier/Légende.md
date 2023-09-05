@@ -862,6 +862,7 @@ Fig.
 19. Volant du moulinet.
 	- A, le trou de l'arbre.
 
+20. [?]
 
 PLANCHE XIV.
 ------------

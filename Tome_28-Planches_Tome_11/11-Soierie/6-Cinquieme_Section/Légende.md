@@ -531,3 +531,5 @@ Fig.
 	- F, ouverture par laquelle on introduit les barres de fer rougies sur un fourneau à grille, où elles sont chauffées avec du charbon; cette figure, ainsi que la suivante, sont dessinées sur une échelle double.
 
 4. Autre maniere de construire le cylindre. Il a quatre trous dans lesquels on introduit des barres d'une grosseur convenable. Cette construction procure l'avantage d'avoir des tourillons de fer & d'un plus petit diametre; ce qui diminue considérablement les frottemens.
+
+[->](../../12-Table_Alphabétique_des_Matieres.md)
